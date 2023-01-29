@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:01:57.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="-1tOZvhBNMSzRWx6iLua" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:08:33.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="KxA0teTNvlC7wjm10ccL" version="20.8.13" type="github" pages="3">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--18" value="Assembly Factory" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="580" height="200" as="geometry" />
+          <mxGeometry x="10" y="430" width="770" height="380" as="geometry" />
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I6TWMLQy3BOm3Pw9d9K--25" target="I6TWMLQy3BOm3Pw9d9K--14">
           <mxGeometry relative="1" as="geometry">
@@ -370,6 +370,36 @@
         </mxCell>
         <mxCell id="dHGLS5SWoiPLfk3-RTIB-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P9OLIBjp0Zk6fSwO6xzy-6" target="dHGLS5SWoiPLfk3-RTIB-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ox8aNvttb-8gVZ9L8BYf" name="第 3 页">
+    <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z08MLeh8k2wUTQJKx5FM-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="110" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z08MLeh8k2wUTQJKx5FM-1" value="&lt;b&gt;Component1&lt;/b&gt;" style="html=1;dropTarget=0;align=left;verticalAlign=top;container=0;" vertex="1" parent="Z08MLeh8k2wUTQJKx5FM-4">
+          <mxGeometry width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z08MLeh8k2wUTQJKx5FM-2" value="Description" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;container=0;" vertex="1" parent="Z08MLeh8k2wUTQJKx5FM-4">
+          <mxGeometry x="10" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z08MLeh8k2wUTQJKx5FM-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;container=0;" vertex="1" parent="Z08MLeh8k2wUTQJKx5FM-4">
+          <mxGeometry x="103" y="7" width="20" height="20" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdBJDZJgcE1EfSmAIdeo-1" value="Assembly Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IdBJDZJgcE1EfSmAIdeo-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="IdBJDZJgcE1EfSmAIdeo-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
