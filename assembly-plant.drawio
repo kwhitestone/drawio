@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T07:19:23.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="6lKEB1OsMPfaLPtCqFQu" version="20.8.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-29T07:52:19.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="owTddnsRzs7CJTaTkL44" version="20.8.13" type="github" pages="3">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -380,7 +380,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="70" width="580" height="260" as="geometry" />
+          <mxGeometry x="110" y="70" width="580" height="260" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-2" value="Gitlab" style="html=1;align=left;verticalAlign=top;container=0;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-1">
           <mxGeometry width="580" height="260" as="geometry" />
@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-12" value="Assembly Factory" style="html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="360" width="700" height="330" as="geometry" />
+          <mxGeometry x="80" y="360" width="720" height="330" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-16" target="zcmXJdi1cQr9Ww2m_E8S-6">
           <mxGeometry relative="1" as="geometry">
@@ -438,7 +438,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-16" value="Description Parser" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;container=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="400" width="180" height="50" as="geometry" />
+          <mxGeometry x="295" y="400" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-23" value="Pull" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-16" target="zcmXJdi1cQr9Ww2m_E8S-7">
           <mxGeometry x="-0.5714" relative="1" as="geometry">
@@ -457,13 +457,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-30" value="Assembly Manager" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;container=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="490" width="180" height="50" as="geometry" />
+          <mxGeometry x="180" y="490" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-40" target="zcmXJdi1cQr9Ww2m_E8S-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-40" value="Assembly Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="585" width="125" height="70" as="geometry" />
+          <mxGeometry x="207.5" y="600" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-41" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-40">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -474,10 +474,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="110" y="740" width="140" height="90" as="geometry" />
+          <mxGeometry x="190" y="750" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-48" value="Other&lt;br&gt;Solution" style="html=1;dropTarget=0;align=left;verticalAlign=top;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-57">
-          <mxGeometry width="140" height="90" as="geometry" />
+          <mxGeometry width="160" height="110.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-49" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-48">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -485,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-54" value="build system" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-57">
-          <mxGeometry x="5" y="40" width="130" height="40" as="geometry" />
+          <mxGeometry x="22.85" y="48.89" width="114.29" height="48.89" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-58" target="zcmXJdi1cQr9Ww2m_E8S-30">
           <mxGeometry relative="1" as="geometry" />
@@ -493,17 +493,20 @@
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-58" target="zcmXJdi1cQr9Ww2m_E8S-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-58" target="zcmXJdi1cQr9Ww2m_E8S-63">
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-58" target="zcmXJdi1cQr9Ww2m_E8S-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-58" target="zcmXJdi1cQr9Ww2m_E8S-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-58" value="Deployment Manager" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;container=0;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="490" width="165" height="50" as="geometry" />
+          <mxGeometry x="400" y="490" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-59" target="zcmXJdi1cQr9Ww2m_E8S-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-59" value="SDP Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="420" width="125" height="70" as="geometry" />
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-59" value="SDP &lt;br&gt;Deploy Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-60" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-59">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -513,8 +516,8 @@
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-73" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-63" target="zcmXJdi1cQr9Ww2m_E8S-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-63" value="EKS Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="515" width="125" height="70" as="geometry" />
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-63" value="EKS &lt;br&gt;Deploy Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="485" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-64" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-63">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -522,10 +525,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-69" value="SDP Cloud" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="430" width="110" height="50" as="geometry" />
+          <mxGeometry x="830" y="390" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zcmXJdi1cQr9Ww2m_E8S-70" value="AWS Cloud" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="525" width="110" height="50" as="geometry" />
+          <mxGeometry x="830" y="490" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zcmXJdi1cQr9Ww2m_E8S-74" target="zcmXJdi1cQr9Ww2m_E8S-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-74" value="Other&lt;br&gt;Deploy Plugin" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="584.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-75" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="zcmXJdi1cQr9Ww2m_E8S-74">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zcmXJdi1cQr9Ww2m_E8S-77" value="Other Cloud" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="589.5" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
