@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T15:04:49.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" version="20.8.13" etag="r7mUytmVRfNWCmLW3_jU" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-31T15:05:48.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" version="20.8.13" etag="5n_nZ04Fps3skHnsvcgp" type="github" pages="4">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="2027" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,30 +216,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yf9CihzAh85KHfU8xRgC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DO625we-4FlpakCCzO4p-12" target="yf9CihzAh85KHfU8xRgC-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="710" />
-              <mxPoint x="750" y="589" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yf9CihzAh85KHfU8xRgC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DO625we-4FlpakCCzO4p-12" target="yf9CihzAh85KHfU8xRgC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-12" value="App Factory" style="html=1;align=left;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="104" y="540" width="616" height="340" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-11" value="Nexus/Cocoapods" style="html=1;align=left;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="104" y="325" width="620" height="175" as="geometry" />
+          <mxGeometry x="104" y="325" width="616" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="yf9CihzAh85KHfU8xRgC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DO625we-4FlpakCCzO4p-10" target="yf9CihzAh85KHfU8xRgC-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="208" />
-              <mxPoint x="750" y="589" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="yf9CihzAh85KHfU8xRgC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DO625we-4FlpakCCzO4p-10" target="yf9CihzAh85KHfU8xRgC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-10" value="Gitlab" style="html=1;align=left;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="104" y="120" width="620" height="175" as="geometry" />
+          <mxGeometry x="104" y="120" width="616" height="175" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="upleQPJ2WQOxfalDjkzi-2" target="DO625we-4FlpakCCzO4p-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
