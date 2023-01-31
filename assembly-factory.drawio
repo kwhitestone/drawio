@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T14:50:12.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" version="20.8.13" etag="8BtEVgKzvCaF25OfEJKN" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-31T14:52:53.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" version="20.8.13" etag="6hIim8MHf6RFsP3IPySs" type="github" pages="4">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="2027" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DO625we-4FlpakCCzO4p-1" value="Component1&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="DO625we-4FlpakCCzO4p-1" value="Module1&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="194" y="365" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="DO625we-4FlpakCCzO4p-1" vertex="1">
@@ -277,7 +277,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DO625we-4FlpakCCzO4p-3" value="Component2&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="DO625we-4FlpakCCzO4p-3" value="Module2&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="374" y="365" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="DO625we-4FlpakCCzO4p-3" vertex="1">
@@ -285,7 +285,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DO625we-4FlpakCCzO4p-5" value="ComponentN&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="DO625we-4FlpakCCzO4p-5" value="ModuleN&lt;br&gt;Binary" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="539" y="365" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DO625we-4FlpakCCzO4p-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="DO625we-4FlpakCCzO4p-5" vertex="1">
