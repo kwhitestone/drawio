@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T08:31:22.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="evawwmTOP5pK75zj1Hgg" version="20.8.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-13T08:32:36.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="bHZZzoN_797oSi7GD7XA" version="20.8.18" type="github" pages="5">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -714,7 +714,7 @@
         <mxCell id="kPAdhlGY2qAaLyFbSq-x-42" value="存储aar/pod" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-18">
           <mxGeometry x="32.5" y="360" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kPAdhlGY2qAaLyFbSq-x-68" value="aar/pod" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-18">
+        <mxCell id="kPAdhlGY2qAaLyFbSq-x-68" value="aar/pod" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-18">
           <mxGeometry x="32.5" y="630" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kPAdhlGY2qAaLyFbSq-x-20" value="门户" style="swimlane;startSize=20;" vertex="1" parent="1">
@@ -740,7 +740,7 @@
         <mxCell id="kPAdhlGY2qAaLyFbSq-x-67" value="编辑移动业务组件" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-20">
           <mxGeometry x="25" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kPAdhlGY2qAaLyFbSq-x-71" value="移动业务组件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-20">
+        <mxCell id="kPAdhlGY2qAaLyFbSq-x-71" value="移动业务组件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="kPAdhlGY2qAaLyFbSq-x-20">
           <mxGeometry x="13.129999999999999" y="720" width="123.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kPAdhlGY2qAaLyFbSq-x-21" value="Jenkins" style="swimlane;startSize=20;" vertex="1" parent="1">
