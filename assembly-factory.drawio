@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T12:44:23.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="yO6vF-brSkWBBoZ32XK5" version="20.8.23" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-02-27T12:46:54.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="fVvZ5VTqSKi3zijy1rrw" version="20.8.23" type="github" pages="11">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--28" value="Android &lt;br&gt;Assembly Plugin" style="html=1;dropTarget=0;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="157" y="685" width="100" height="90" as="geometry" />
+          <mxGeometry x="150" y="685" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--29" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fillColor=#b1ddf0;strokeColor=#10739e;" parent="I6TWMLQy3BOm3Pw9d9K--28" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -53,7 +53,7 @@
           <mxGeometry x="257" y="550" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--40" value="Android &lt;br&gt;Solution" style="html=1;dropTarget=0;align=left;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="140" y="840" width="127" height="90" as="geometry" />
+          <mxGeometry x="130" y="840" width="140.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="I6TWMLQy3BOm3Pw9d9K--41" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fillColor=#fad7ac;strokeColor=#b46504;" parent="I6TWMLQy3BOm3Pw9d9K--40" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -191,6 +191,12 @@
           <mxGeometry x="0.2151" y="4" relative="1" as="geometry">
             <mxPoint x="-43" y="38" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CIRrE4xNVU4OzMbf18V8-13" value="组件2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="614" y="144" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CIRrE4xNVU4OzMbf18V8-14" value="拼装工厂 2.0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
