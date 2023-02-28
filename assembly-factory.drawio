@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T02:09:40.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="tDVPYaf205H8eIGkipqJ" version="20.8.23" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-02-28T02:10:34.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="1QbLtFu7zU0kwFF0uGKI" version="20.8.23" type="github" pages="12">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1585,6 +1585,14 @@
         <mxCell id="03B9ijWPN2smQxpOBPKa-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" target="03B9ijWPN2smQxpOBPKa-29" parent="1" source="03B9ijWPN2smQxpOBPKa-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03B9ijWPN2smQxpOBPKa-31" value="class: com.nd.sdp.uc.UserLogin" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="730" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03B9ijWPN2smQxpOBPKa-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="03B9ijWPN2smQxpOBPKa-31" parent="1" source="03B9ijWPN2smQxpOBPKa-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="787" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
