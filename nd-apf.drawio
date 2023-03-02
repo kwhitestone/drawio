@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T14:39:46.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="lHS22lNnSuLJRvjlEwSn" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T14:40:27.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="BEE9qoce6T4njqZv3tAC" version="20.8.23" type="github">
   <diagram name="第 1 页" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2901" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-28" value="app.json：应用配置&lt;br&gt;&lt;br&gt;components.json：组件列表&lt;br&gt;&lt;br&gt;routes.json：组件路由跳转信息&lt;br&gt;&lt;br&gt;pages.json：组件配置信息&lt;br&gt;&lt;br&gt;services.json：各组件对应的后端服务列表和信息&lt;br&gt;&lt;br&gt;announce.json：组件声明，主要是ios和android的入口类&lt;br&gt;&lt;br&gt;wigets.json：&lt;br&gt;&lt;br&gt;datasources.json：" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-28" value="app.json：应用配置&lt;br&gt;&lt;br&gt;components.json：组件列表&lt;br&gt;&lt;br&gt;routes.json：组件路由跳转信息&lt;br&gt;&lt;br&gt;pages.json：组件配置信息&lt;br&gt;&lt;br&gt;services.json：各组件对应的后端服务列表和信息&lt;br&gt;&lt;br&gt;announce.json：组件声明，主要是ios和android的入口类&lt;br&gt;&lt;br&gt;wigets.json：&lt;br&gt;&lt;br&gt;datasources.json：&lt;br&gt;&lt;br&gt;page_attributes.json：" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-150" width="340" height="290" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-29" value="&lt;div&gt;组件在内存中的描述&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mEntryClass = &quot;com.nd.sdp.uc.UcComponent&quot;&lt;/div&gt;&lt;div&gt;mName = &quot;uc_component&quot;&lt;/div&gt;&lt;div&gt;mNamespace = &quot;com.nd.sdp&quot;&lt;/div&gt;&lt;div&gt;mPropertyMap =&amp;nbsp;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
