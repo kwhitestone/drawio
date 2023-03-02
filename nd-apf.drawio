@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:25:48.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="SmHe8w-uodprvU2fHetM" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T12:13:53.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="Of4GNI5ZwM4oLkCAijUp" version="20.8.23" type="github">
   <diagram name="第 1 页" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-190" y="435" width="160" height="805" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8PpBY6Rd-Wwwx4Sc7z_2-3">
-          <mxGeometry x="75" y="70" width="10" height="120" as="geometry" />
+          <mxGeometry x="75" y="70" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-6" value="ClassDelegate" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="435" width="160" height="805" as="geometry" />
@@ -55,10 +55,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-28" value="app.json：应用配置&lt;br&gt;&lt;br&gt;components.json：组件列表&lt;br&gt;&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="-150" width="340" height="400" as="geometry" />
+          <mxGeometry x="-210" y="-150" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-29" value="&lt;div&gt;组件在内存中的描述&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mEntryClass = &quot;com.nd.sdp.uc.UcComponent&quot;&lt;/div&gt;&lt;div&gt;mName = &quot;uc_component&quot;&lt;/div&gt;&lt;div&gt;mNamespace = &quot;com.nd.sdp&quot;&lt;/div&gt;&lt;div&gt;mPropertyMap =&amp;nbsp;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-150" width="340" height="400" as="geometry" />
+          <mxGeometry x="250" y="-150" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-33" value="AppFactory" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="160" height="805" as="geometry" />
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8PpBY6Rd-Wwwx4Sc7z_2-33">
+          <mxGeometry x="75" y="310" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8PpBY6Rd-Wwwx4Sc7z_2-33">
+          <mxGeometry x="75" y="420" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-46" value="registerComponent" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="8PpBY6Rd-Wwwx4Sc7z_2-45" parent="8PpBY6Rd-Wwwx4Sc7z_2-33" source="8PpBY6Rd-Wwwx4Sc7z_2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="350" />
+              <mxPoint x="110" y="430" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-43" value="init" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="8PpBY6Rd-Wwwx4Sc7z_2-42" parent="1" source="8PpBY6Rd-Wwwx4Sc7z_2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="740" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-47" value="利用反射机制实例化组件入口类" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="730" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
