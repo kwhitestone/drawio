@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:20:33.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="sE_jN-1NFe70pMzN27Q1" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:23:24.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="oiar75h23f81PPHIZjRC" version="20.8.23" type="github">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -228,12 +228,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5giNxIv3W8pHgEVubvC_-48" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-47" parent="1" source="5giNxIv3W8pHgEVubvC_-40">
+        <mxCell id="5giNxIv3W8pHgEVubvC_-48" value="GoPage" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-47" parent="1" source="5giNxIv3W8pHgEVubvC_-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="935" y="1890" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1110" y="1900" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
