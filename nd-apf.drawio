@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:10:27.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="qZjZMVMhgVQNJOhZyVmg" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:12:17.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="8RzmiZOnotgYGLNDDiq_" version="20.8.23" type="github">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +199,9 @@
         <mxCell id="5giNxIv3W8pHgEVubvC_-31" value="SplashActivity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="520" width="160" height="1420" as="geometry" />
         </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5giNxIv3W8pHgEVubvC_-31">
+          <mxGeometry x="75" y="1320" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-36" value="组件" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="440" width="90" height="70" as="geometry" />
         </mxCell>
@@ -206,7 +209,15 @@
           <mxGeometry x="780" y="420" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-38" value="入口activity" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="440" width="90" height="70" as="geometry" />
+          <mxGeometry x="1120" y="440" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-41" value="MAIN" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-40" parent="1" source="8PpBY6Rd-Wwwx4Sc7z_2-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="1840" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="780" y="1850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
