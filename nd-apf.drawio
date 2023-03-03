@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T03:18:31.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="WMjKOq6YluIJqcEZLJy3" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:20:33.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="sE_jN-1NFe70pMzN27Q1" version="20.8.23" type="github">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,6 +148,9 @@
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-24" value="cmp类的组件初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
           <mxGeometry x="112" y="970" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-51" value="此后每个组件都有相关的路由配置，或根据用户点击，或是根据事件，进行后续的goPage操作" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
+          <mxGeometry x="-40" y="1440" width="113" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-9" value="onInit" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-8" parent="1" source="5giNxIv3W8pHgEVubvC_-2">
           <mxGeometry relative="1" as="geometry">
