@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T02:08:21.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="ZKOfuUjXztWuxoYjcCha" version="20.8.23" type="github">
-  <diagram name="第 1 页" id="u-AJXG04gfKVnk7us_Lw">
+<mxfile host="app.diagrams.net" modified="2023-03-03T03:10:14.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="66TT8JnEyXy1ogJj-7kh" version="20.8.23" type="github">
+  <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-3" value="ContainerApplication" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-200" y="525" width="160" height="975" as="geometry" />
+          <mxGeometry x="-200" y="525" width="160" height="1405" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8PpBY6Rd-Wwwx4Sc7z_2-3" vertex="1">
           <mxGeometry x="75" y="100" width="10" height="350" as="geometry" />
@@ -25,13 +25,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-28" value="app.json：应用配置&lt;br&gt;&lt;br&gt;components.json：组件列表&lt;br&gt;&lt;br&gt;routes.json：组件路由跳转信息&lt;br&gt;&lt;br&gt;pages.json：组件配置信息&lt;br&gt;&lt;br&gt;services.json：各组件对应的后端服务列表和信息&lt;br&gt;&lt;br&gt;announce.json：组件声明，主要是ios、android、h5组件的入口信息，当前主要用于h5组件&lt;br&gt;&lt;br&gt;wigets.json：eda工程为空，似乎声明了可以用于读取控件里的具体值&lt;br&gt;&lt;br&gt;datasources.json：eda工程为空，似乎声明了可以用于动态获取和修改组件的配置信息&lt;br&gt;&lt;br&gt;page_attributes.json：组件属性信息，目前只有_allow_guest，被elearning业务方用于判断组件是否存在（判断cmp是有效 判断逻辑，1、地址有效，组件存在 2、业务组件中配置了page页面，且这样页面是有属性的。才能判断是否存在）&lt;br&gt;&lt;br&gt;build.json：动态代理类，作用未知，猜测是用于组件间使用代码进行跳转" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-150" width="340" height="480" as="geometry" />
+          <mxGeometry x="-210" y="-100" width="340" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-29" value="&lt;div&gt;组件在内存中的描述&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mEntryClass = &quot;com.nd.sdp.uc.UcComponent&quot;&lt;/div&gt;&lt;div&gt;mName = &quot;uc_component&quot;&lt;/div&gt;&lt;div&gt;mNamespace = &quot;com.nd.sdp&quot;&lt;/div&gt;&lt;div&gt;mPropertyMap =&amp;nbsp;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-150" width="340" height="180" as="geometry" />
+        <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-29" value="&lt;div&gt;组件在内存中的描述&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mEntryClass = &quot;com.nd.sdp.uc.UcComponent&quot;&lt;/div&gt;&lt;div&gt;mName = &quot;uc_component&quot;&lt;/div&gt;&lt;div&gt;mNamespace = &quot;com.nd.sdp&quot;&lt;/div&gt;&lt;div&gt;mPropertyMap =&amp;nbsp;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=middle;align=left;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-100" width="350" height="480" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-33" value="AppFactory" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="525" width="210" height="985" as="geometry" />
+          <mxGeometry x="110" y="525" width="210" height="1405" as="geometry" />
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="8PpBY6Rd-Wwwx4Sc7z_2-33" vertex="1">
           <mxGeometry x="100" y="310" width="10" height="60" as="geometry" />
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8PpBY6Rd-Wwwx4Sc7z_2-33">
-          <mxGeometry x="100" y="664" width="10" height="216" as="geometry" />
+          <mxGeometry x="100" y="664" width="10" height="396" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-3" value="initializeComponent" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-2" parent="8PpBY6Rd-Wwwx4Sc7z_2-33" source="8PpBY6Rd-Wwwx4Sc7z_2-48">
           <mxGeometry relative="1" as="geometry">
@@ -102,6 +102,19 @@
               <mxPoint x="135" y="625" />
               <mxPoint x="135" y="674" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8PpBY6Rd-Wwwx4Sc7z_2-33">
+          <mxGeometry x="100" y="1105" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-29" value="initializeAppFacAfter" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-28" parent="8PpBY6Rd-Wwwx4Sc7z_2-33" source="5giNxIv3W8pHgEVubvC_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="1085" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="1035" />
+              <mxPoint x="135" y="1115" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8PpBY6Rd-Wwwx4Sc7z_2-43" value="init" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="8PpBY6Rd-Wwwx4Sc7z_2-4" target="8PpBY6Rd-Wwwx4Sc7z_2-42" edge="1">
@@ -122,10 +135,19 @@
           <mxGeometry x="369" y="1130" width="151" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-6" value="Component" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="520" width="160" height="1010" as="geometry" />
+          <mxGeometry x="500" y="520" width="205" height="1420" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
-          <mxGeometry x="75" y="700" width="10" height="80" as="geometry" />
+          <mxGeometry x="96" y="700" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-20" value="cmp类的组件初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
+          <mxGeometry x="111" y="705" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
+          <mxGeometry x="97" y="980" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-24" value="cmp类的组件初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="5giNxIv3W8pHgEVubvC_-6">
+          <mxGeometry x="112" y="970" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-9" value="onInit" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-8" parent="1" source="5giNxIv3W8pHgEVubvC_-2">
           <mxGeometry relative="1" as="geometry">
@@ -135,8 +157,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5giNxIv3W8pHgEVubvC_-11" value="Protocol" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="520" width="160" height="1030" as="geometry" />
+        <mxCell id="5giNxIv3W8pHgEVubvC_-11" value="ResourceProtocol" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="520" width="160" height="1420" as="geometry" />
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5giNxIv3W8pHgEVubvC_-11">
           <mxGeometry x="75" y="830" width="10" height="40" as="geometry" />
@@ -161,10 +183,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5giNxIv3W8pHgEVubvC_-19" value="各类型组件间相互跳转" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1360" width="100" height="70" as="geometry" />
+          <mxGeometry x="880" y="1360" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5giNxIv3W8pHgEVubvC_-20" value="cmp类似组件初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1169" width="100" height="70" as="geometry" />
+        <mxCell id="5giNxIv3W8pHgEVubvC_-22" value="afterInit" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="5giNxIv3W8pHgEVubvC_-21" parent="1" source="8PpBY6Rd-Wwwx4Sc7z_2-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-30" value="工厂初始化：&lt;br&gt;设置应用进入后台强制log缓存&lt;br&gt;增加http请求头，包括appid pkgid 和其它在 app.json中的属性&lt;br&gt;注册activity生命周期监控回调&lt;br&gt;注册错误监控回调" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1540" width="231" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-31" value="SplashActivity" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="520" width="160" height="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-36" value="组件" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5giNxIv3W8pHgEVubvC_-37" value="组件间跳转的调度者，每种类型的组件有一个实例&lt;br&gt;cmp flutter http plugin react" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
