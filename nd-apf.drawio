@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T02:11:36.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="TqYPQ-wHKplmCa_CJhUi" version="21.0.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-06T02:37:20.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="7Vma4qisTGTdnXlqxQ8w" version="21.0.1" type="github" pages="8">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,7 +813,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sOmXRj5u2w0UcSGCIcqz" name="第 7 页">
+  <diagram id="sOmXRj5u2w0UcSGCIcqz" name="定制流程">
     <mxGraphModel dx="2261" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -903,6 +903,44 @@
         </mxCell>
         <mxCell id="y_sIa1mz3G05sfB6biKx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yV7g3XsgvGK6Yu4xgFYy-1" target="yV7g3XsgvGK6Yu4xgFYy-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8FxoIAl-sBclGLts709_" name="组件1.0示意图">
+    <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xGUqerfo6NS4HyIV0Za8-1" target="xGUqerfo6NS4HyIV0Za8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-1" value="开发方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xGUqerfo6NS4HyIV0Za8-2" target="xGUqerfo6NS4HyIV0Za8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-2" value="产品方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-3" value="移动业务组件" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="214" y="360" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-7" value="客户端颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-8" value="服务端颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-9" value="组件配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-10" value="客户端颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGUqerfo6NS4HyIV0Za8-11" value="服务端颗粒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
