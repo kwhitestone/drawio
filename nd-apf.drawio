@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T01:47:12.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="B1_6DiNQ3EvcnPdSD3Ks" version="21.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-06T01:47:51.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="svE8lFyQvhMMqLlHtXkx" version="21.0.1" type="github" pages="6">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,7 +813,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yDMbL1-84TIrV3nOoE8j" name="第 6 页">
+  <diagram id="yDMbL1-84TIrV3nOoE8j" name="组件2.0管理流程">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
