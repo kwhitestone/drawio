@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T08:55:10.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="lwiXEqm-xCCtiXYQBJMK" version="21.0.10" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-03-30T08:57:35.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="N_qB8cR4XzEdO2B9njV8" version="21.0.10" type="github" pages="13">
   <diagram name="第 1 页" id="zwg2vvg_9aj8PHfeXNo3">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1697,7 +1697,7 @@
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-1" target="CT8dY_mPVYT8_7YAeEg0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-1" value="产品需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-1" value="产品需求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="30" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-2" target="CT8dY_mPVYT8_7YAeEg0-6">
@@ -1712,16 +1712,16 @@
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-2" target="CT8dY_mPVYT8_7YAeEg0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-2" value="复合业务组件&lt;br&gt;（部分复用)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-2" value="复合业务组件&lt;br&gt;（部分复用)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-3" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-3" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-4" value="非组件代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-4" value="非组件代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-5" value="组件...&lt;br&gt;(全复用或无关)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-5" value="组件...&lt;br&gt;(全复用或无关)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="230" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-6" target="CT8dY_mPVYT8_7YAeEg0-10">
@@ -1733,16 +1733,16 @@
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-6" target="CT8dY_mPVYT8_7YAeEg0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-6" value="业务组件...&lt;br&gt;(部分复用)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-6" value="业务组件...&lt;br&gt;(部分复用)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-7" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-7" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-8" value="非组件代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-8" value="非组件代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-9" value="组件...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用或无关)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-9" value="组件...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用或无关)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="460" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-10" target="CT8dY_mPVYT8_7YAeEg0-13">
@@ -1757,25 +1757,25 @@
         <mxCell id="CT8dY_mPVYT8_7YAeEg0-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CT8dY_mPVYT8_7YAeEg0-10" target="CT8dY_mPVYT8_7YAeEg0-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-10" value="功能组件...&lt;br&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-10" value="功能组件...&lt;br&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-11" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-11" value="胶水代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-12" value="功能组件...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-12" value="功能组件...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="650" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-13" value="基础组件类...&lt;br&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-13" value="基础组件类...&lt;br&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="880" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-14" value="控件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-14" value="控件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(增/改)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-15" value="基础组件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-15" value="基础组件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="880" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CT8dY_mPVYT8_7YAeEg0-16" value="控件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CT8dY_mPVYT8_7YAeEg0-16" value="控件类...&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(全复用)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="880" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
