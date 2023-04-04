@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T01:13:10.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="y-91TIZKgnIz8s4Cl_AY" version="21.1.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-04-04T01:13:48.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="ydmtGzWqxk_fpsBNjRta" version="21.1.4" type="github" pages="11">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2261" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1770,7 +1770,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0m4CVk8dOmJjBdo_3okQ-1" value="拼装工厂2.0" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="499.5" y="242" width="653" height="80" as="geometry" />
+          <mxGeometry x="499.5" y="270" width="653" height="52" as="geometry" />
         </mxCell>
         <mxCell id="0m4CVk8dOmJjBdo_3okQ-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="0m4CVk8dOmJjBdo_3okQ-1" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
