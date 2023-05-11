@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T04:34:59.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="edMKsuqfBxASB3Li1Enl" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T04:35:07.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="kaxRNdrSXwwPhuz-6e_G" version="21.2.9" type="github">
   <diagram name="第 1 页" id="fNABdmpVmvpWTM05Uc5Q">
     <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="Y-t7St30MuHWzx6zsNk3-21" value="2.0组件规范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="460" y="577.5" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y-t7St30MuHWzx6zsNk3-22" value="组件规范检测工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Y-t7St30MuHWzx6zsNk3-22" value="组件规范检测工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="660" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y-t7St30MuHWzx6zsNk3-23" value="2.0组件解耦SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
