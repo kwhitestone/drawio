@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T15:07:22.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="_mOQXoHqgmwRrydU1LXo" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T07:13:48.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="LFLeXvF-giI9Jmj-ORl5" version="21.3.7" type="github" pages="2">
   <diagram name="第 1 页" id="fNABdmpVmvpWTM05Uc5Q">
     <mxGraphModel dx="1379" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,20 @@
         </mxCell>
         <mxCell id="KK-B6Oj4zQWbPTur-gJt-3" value="2.0组件管理服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="520" y="391" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NGxsN1zqlF8b7Gsoyb8H" name="第 2 页">
+    <mxGraphModel dx="1379" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="obU4M9LGuLbyIS3JcCOB-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="obU4M9LGuLbyIS3JcCOB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
