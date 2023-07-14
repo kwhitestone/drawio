@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:03:11.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="JRs0C3gXq78lyEuzk2nc" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:03:31.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="Fmhc4vDcCh-SoNX0b2Ww" version="21.5.2" type="github" pages="13">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2848,8 +2848,8 @@
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-12" value="编写移动业务组件XML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-16" value="组件开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="640" width="30" height="60" as="geometry" />
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-16" value="产品开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-17" value="技术货架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="555" width="120" height="60" as="geometry" />
