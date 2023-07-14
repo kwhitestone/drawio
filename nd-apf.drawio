@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:08:32.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="2I-zbQU4amQE5IbqYFqK" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:09:12.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="5XcMMyr3XXaq-Oti9E2a" version="21.5.2" type="github" pages="13">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2887,6 +2887,9 @@
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-28" target="iQ3vZVahWkiKJqUMbJ1d-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-28" target="iQ3vZVahWkiKJqUMbJ1d-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-28" value="获取组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="860" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2910,6 +2913,9 @@
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-40" value="组件开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-42" value="组件拼装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
