@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:09:23.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="IdNVKTme0kVJoRp5vGcC" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:14:53.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ZkgFqCirjogjS6BVUrwu" version="21.5.2" type="github" pages="13">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2827,7 +2827,7 @@
           <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-8" value="产物库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-10" target="iQ3vZVahWkiKJqUMbJ1d-12">
           <mxGeometry relative="1" as="geometry" />
@@ -2887,7 +2887,7 @@
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-28" target="iQ3vZVahWkiKJqUMbJ1d-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-28" target="iQ3vZVahWkiKJqUMbJ1d-42">
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-28" target="iQ3vZVahWkiKJqUMbJ1d-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-28" value="获取组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2914,8 +2914,16 @@
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-40" value="组件开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-42" target="iQ3vZVahWkiKJqUMbJ1d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iQ3vZVahWkiKJqUMbJ1d-45" value="基于移动业务组件的XML进行页面拼装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iQ3vZVahWkiKJqUMbJ1d-44">
+          <mxGeometry x="-0.3972" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-42" value="组件拼装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="1080" y="645" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
