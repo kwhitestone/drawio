@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:25:05.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="AYX8akyqUr1HqdIZJx1L" version="21.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:25:46.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="XvX3j_seM_RKYonEfKfI" version="21.5.2" type="github" pages="14">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3038,11 +3038,6 @@
         <mxCell id="JrsIDIX24ZYBG92vUCNH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-37" target="JrsIDIX24ZYBG92vUCNH-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JrsIDIX24ZYBG92vUCNH-54" value="TODO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JrsIDIX24ZYBG92vUCNH-53">
-          <mxGeometry x="0.0154" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-37" target="JrsIDIX24ZYBG92vUCNH-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3085,12 +3080,12 @@
         <mxCell id="JrsIDIX24ZYBG92vUCNH-45" value="2.0组件拼装服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1020" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JrsIDIX24ZYBG92vUCNH-52" value="TODO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-50" target="JrsIDIX24ZYBG92vUCNH-45">
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-50" target="JrsIDIX24ZYBG92vUCNH-45">
           <mxGeometry x="-0.1727" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JrsIDIX24ZYBG92vUCNH-50" value="接口方式的解耦" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-50" value="接口方式的解耦&lt;br&gt;TODO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1181" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
