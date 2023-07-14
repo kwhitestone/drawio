@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:09:12.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="5XcMMyr3XXaq-Oti9E2a" version="21.5.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:09:23.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="IdNVKTme0kVJoRp5vGcC" version="21.5.2" type="github" pages="13">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2848,7 +2848,7 @@
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-19" value="移动业务组件上架" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iQ3vZVahWkiKJqUMbJ1d-18">
           <mxGeometry x="-0.5418" relative="1" as="geometry">
-            <mxPoint y="47" as="offset" />
+            <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-12" value="编写移动业务组件XML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
