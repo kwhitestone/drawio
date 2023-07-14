@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:22:05.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="JzlG4_9olmDvJxxAVA0F" version="21.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:24:24.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="cUGOxmQwOu07kgPsfnG3" version="21.5.2" type="github" pages="14">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2984,19 +2984,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-24" value="拼装门户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-26" target="JrsIDIX24ZYBG92vUCNH-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-26" value="创建产品&amp;amp;创建APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-28" target="JrsIDIX24ZYBG92vUCNH-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-28" value="编辑APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-32" target="JrsIDIX24ZYBG92vUCNH-35">
           <mxGeometry relative="1" as="geometry" />
@@ -3005,7 +3005,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-32" value="获取组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-33" target="JrsIDIX24ZYBG92vUCNH-45">
           <mxGeometry relative="1" as="geometry" />
@@ -3016,22 +3016,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-33" value="Jenkins&lt;br&gt;构建流水线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-35" target="JrsIDIX24ZYBG92vUCNH-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-35" value="APP构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-37" target="JrsIDIX24ZYBG92vUCNH-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-37" target="JrsIDIX24ZYBG92vUCNH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-54" value="TODO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JrsIDIX24ZYBG92vUCNH-53">
+          <mxGeometry x="0.0154" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-37" target="JrsIDIX24ZYBG92vUCNH-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="730" />
+              <mxPoint x="1380" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-56" value="处理2.0组件依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JrsIDIX24ZYBG92vUCNH-55">
+          <mxGeometry x="-0.0389" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-37" value="Jenkins构建流水线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1181" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-38" value="APP安装包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1181" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-39" target="JrsIDIX24ZYBG92vUCNH-43">
           <mxGeometry relative="1" as="geometry" />
@@ -3044,14 +3065,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-42" target="JrsIDIX24ZYBG92vUCNH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-42" value="组件拼装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrsIDIX24ZYBG92vUCNH-43" value="编写移动业务组件XML" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JrsIDIX24ZYBG92vUCNH-45" value="2.0组件拼装服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-45" value="2.0组件拼装服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-52" value="TODO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrsIDIX24ZYBG92vUCNH-50" target="JrsIDIX24ZYBG92vUCNH-45">
+          <mxGeometry x="-0.1727" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrsIDIX24ZYBG92vUCNH-50" value="接口方式的解耦" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
