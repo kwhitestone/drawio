@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T08:24:24.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="cUGOxmQwOu07kgPsfnG3" version="21.5.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-07-14T08:25:05.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="AYX8akyqUr1HqdIZJx1L" version="21.5.2" type="github" pages="14">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2904,6 +2904,14 @@
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-36" target="iQ3vZVahWkiKJqUMbJ1d-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rr_qOfiCDtg56OJw27Vi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iQ3vZVahWkiKJqUMbJ1d-36" target="iQ3vZVahWkiKJqUMbJ1d-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rr_qOfiCDtg56OJw27Vi-2" value="处理组件依赖" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rr_qOfiCDtg56OJw27Vi-1">
+          <mxGeometry x="-0.5829" y="1" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iQ3vZVahWkiKJqUMbJ1d-36" value="Jenkins构建流水线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="860" width="120" height="60" as="geometry" />
