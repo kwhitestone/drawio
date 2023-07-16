@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T13:55:23.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="YlGJabnhCJJzSvWkq72i" version="21.6.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-16T13:59:12.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="VU4E3kmtHgDNOk3E4_aw" version="21.6.2" type="github" pages="16">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2846" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3099,7 +3099,7 @@
         <mxCell id="ZPENzRnvJQK4lwZJAxyA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="ZPENzRnvJQK4lwZJAxyA-2" target="ZPENzRnvJQK4lwZJAxyA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B2TCvfhNUqwtBwMjX3wS-20" value="开发工具/流水线" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="ZPENzRnvJQK4lwZJAxyA-2" target="B2TCvfhNUqwtBwMjX3wS-1">
+        <mxCell id="B2TCvfhNUqwtBwMjX3wS-20" value="开发者工具/流水线" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="ZPENzRnvJQK4lwZJAxyA-2" target="B2TCvfhNUqwtBwMjX3wS-1">
           <mxGeometry x="-0.1589" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="85" y="400" />
@@ -3133,7 +3133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B2TCvfhNUqwtBwMjX3wS-22" value="开发工具/流水线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="B2TCvfhNUqwtBwMjX3wS-19">
+        <mxCell id="B2TCvfhNUqwtBwMjX3wS-22" value="开发者工具/流水线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="B2TCvfhNUqwtBwMjX3wS-19">
           <mxGeometry x="-0.214" y="1" relative="1" as="geometry">
             <mxPoint x="12" as="offset" />
           </mxGeometry>
