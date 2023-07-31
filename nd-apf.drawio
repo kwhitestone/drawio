@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T13:00:31.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="-HK53Z0ZjBUcXit73-Bo" version="21.6.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-07-31T13:01:19.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="5QAPcIQN6d7wMi8-GOrC" version="21.6.6" type="github" pages="18">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3448,7 +3448,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J6oZdAE6Vk3DJ0QCX4Yz-13" value="使用1.0组件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="J6oZdAE6Vk3DJ0QCX4Yz-2" target="J6oZdAE6Vk3DJ0QCX4Yz-11">
+        <mxCell id="J6oZdAE6Vk3DJ0QCX4Yz-13" value="使用1.0组件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="J6oZdAE6Vk3DJ0QCX4Yz-2" target="J6oZdAE6Vk3DJ0QCX4Yz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J6oZdAE6Vk3DJ0QCX4Yz-14" value="使用2.0组件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;fontColor=#916740;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="J6oZdAE6Vk3DJ0QCX4Yz-2" target="J6oZdAE6Vk3DJ0QCX4Yz-12">
