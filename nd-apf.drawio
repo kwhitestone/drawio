@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T08:46:59.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ODqdgCESVYG5Og64ZyEl" version="21.6.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-01T10:20:56.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="r9lrLEq4lxK9XTmn8kmO" version="21.6.6" type="github" pages="19">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3197,7 +3197,7 @@
         <mxCell id="B2TCvfhNUqwtBwMjX3wS-6" value="组件构建流水线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B2TCvfhNUqwtBwMjX3wS-11" value="2.0组件治理服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="B2TCvfhNUqwtBwMjX3wS-11" value="2.0组件库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="800" y="500" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B2TCvfhNUqwtBwMjX3wS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="B2TCvfhNUqwtBwMjX3wS-15" target="B2TCvfhNUqwtBwMjX3wS-11" edge="1">
