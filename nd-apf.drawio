@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T13:09:22.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="_NZAVoayeml5vZdeujjT" version="21.6.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-01T13:10:36.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="EKl1QNCUv2kw59UPJaVF" version="21.6.6" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3640,63 +3640,63 @@
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-5" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="108" y="440" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-16" target="TVIMPHO5ldjRABQr7Ujx-12" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-16" target="TVIMPHO5ldjRABQr7Ujx-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="210" as="sourcePoint" />
+            <mxPoint x="731" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-12" target="TVIMPHO5ldjRABQr7Ujx-14" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-12" target="TVIMPHO5ldjRABQr7Ujx-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-12" value="下载 cmp-ci-before-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="343" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="850.75" y="55" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-14" target="TVIMPHO5ldjRABQr7Ujx-32" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-14" target="TVIMPHO5ldjRABQr7Ujx-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-14" value="在当前目录执行" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="343" y="310" width="120" height="50" as="geometry" />
+          <mxGeometry x="1040.75" y="55" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-15" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="353.75" y="500" width="100" height="60" as="geometry" />
+          <mxGeometry x="1420" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-16" value="组件构建开始阶段" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="354" y="90" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="682" y="50" width="97.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-32" target="TVIMPHO5ldjRABQr7Ujx-15" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-32" target="TVIMPHO5ldjRABQr7Ujx-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-32" value="判断执行结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="343.75" y="405" width="120" height="50" as="geometry" />
+          <mxGeometry x="1230" y="55" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-40" target="TVIMPHO5ldjRABQr7Ujx-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="235" as="sourcePoint" />
+            <mxPoint x="738" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-36" target="TVIMPHO5ldjRABQr7Ujx-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-36" value="下载 cmp-android-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="844.25" y="120" width="120" height="50" as="geometry" />
+          <mxGeometry x="852.25" y="225" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-38" target="TVIMPHO5ldjRABQr7Ujx-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-38" value="在当前目录执行" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="120" width="120" height="50" as="geometry" />
+          <mxGeometry x="1038" y="225" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-39" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="115" width="100" height="60" as="geometry" />
+          <mxGeometry x="1428" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-40" value="组件构建结束阶段" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="682" y="115" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="690" y="220" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-42" target="TVIMPHO5ldjRABQr7Ujx-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-42" value="判断执行结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="120" width="120" height="50" as="geometry" />
+          <mxGeometry x="1238" y="225" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-44" target="TVIMPHO5ldjRABQr7Ujx-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3778,32 +3778,32 @@
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-28" target="q4YJXZp6FQ24m7BUm6gW-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1012.25" y="440" as="sourcePoint" />
+            <mxPoint x="1020.25" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-24" target="q4YJXZp6FQ24m7BUm6gW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-24" value="下载 cmp-flutter-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="844.25" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="852.25" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-26" target="q4YJXZp6FQ24m7BUm6gW-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-26" value="在当前目录执行" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="1038" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-27" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="385" width="100" height="60" as="geometry" />
+          <mxGeometry x="1428" y="385" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-28" value="组件构建结束阶段" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="682" y="385" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="690" y="385" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-30" target="q4YJXZp6FQ24m7BUm6gW-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-30" value="判断执行结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="390" width="120" height="50" as="geometry" />
+          <mxGeometry x="1228" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-31" target="q4YJXZp6FQ24m7BUm6gW-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
