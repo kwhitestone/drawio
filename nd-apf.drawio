@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T03:10:21.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="6xB7Dl98c1lwQEb5J5J6" version="21.6.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-01T03:11:38.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="D8XukFUTpL0zD3Dsry-t" version="21.6.6" type="github" pages="19">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3611,7 +3611,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="133" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="107" y="130" width="102" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-3" target="TVIMPHO5ldjRABQr7Ujx-4">
           <mxGeometry relative="1" as="geometry" />
@@ -3685,6 +3685,27 @@
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-42" value="判断执行结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="608.75" y="415" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-44" target="TVIMPHO5ldjRABQr7Ujx-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-44" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="133" y="740" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-46" target="TVIMPHO5ldjRABQr7Ujx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-46" value="组件构建" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-48" target="TVIMPHO5ldjRABQr7Ujx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-48" value="2.0 Gradle脚本" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="98" y="950" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-49" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="108" y="1050" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
