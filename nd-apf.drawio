@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T10:20:56.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="r9lrLEq4lxK9XTmn8kmO" version="21.6.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-01T10:56:29.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ZZVXGive9BgUnqc1fMyc" version="21.6.6" type="github" pages="20">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3648,7 +3648,7 @@
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-12" target="TVIMPHO5ldjRABQr7Ujx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-12" value="下载 cmp-ci-before-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-12" value="下载 cmp-ci-before-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="343" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-14" target="TVIMPHO5ldjRABQr7Ujx-32">
@@ -3677,7 +3677,7 @@
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-36" target="TVIMPHO5ldjRABQr7Ujx-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-36" value="下载 cmp-android-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-36" value="下载 cmp-android-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="593" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-38" target="TVIMPHO5ldjRABQr7Ujx-42">
@@ -3784,7 +3784,7 @@
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4YJXZp6FQ24m7BUm6gW-24" target="q4YJXZp6FQ24m7BUm6gW-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4YJXZp6FQ24m7BUm6gW-24" value="下载 cmp-flutter-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="q4YJXZp6FQ24m7BUm6gW-24" value="下载 cmp-flutter-ci-after-build 工具" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="827" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4YJXZp6FQ24m7BUm6gW-26" target="q4YJXZp6FQ24m7BUm6gW-30">
@@ -3869,6 +3869,71 @@
         </mxCell>
         <mxCell id="KNltZH5BiZl1WOvfE7lD-11" value="APP页面对应关系" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="718.25" y="1860" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8eXNR2RSw2qFdkt2YqyF" name="第 20 页">
+    <mxGraphModel dx="1379" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zNnmBecmXwP_v3yYISHm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-1" target="zNnmBecmXwP_v3yYISHm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-1" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-2" target="zNnmBecmXwP_v3yYISHm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-2" value="编写requires接口描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-3" target="zNnmBecmXwP_v3yYISHm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-3" value="开发者工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-4" target="zNnmBecmXwP_v3yYISHm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-4" value="生成代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-8" value="调用接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-11" target="zNnmBecmXwP_v3yYISHm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-11" value="开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-13" target="zNnmBecmXwP_v3yYISHm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-13" value="编写provides接口描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-15" target="zNnmBecmXwP_v3yYISHm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-15" value="开发者工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zNnmBecmXwP_v3yYISHm-17" target="zNnmBecmXwP_v3yYISHm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-17" value="生成代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-18" value="实现Impl接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zNnmBecmXwP_v3yYISHm-19" value="APP构建时&lt;br&gt;匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
