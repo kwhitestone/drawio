@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T12:56:49.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="WEhDn7GOaQfdZ5ASfG6O" version="21.6.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-01T12:59:09.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="FwzaF5QN0nLyOgxbn91P" version="21.6.6" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4000,11 +4000,50 @@
         <mxCell id="iHmuJ2cZr9vdGcVTkyyy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-2" target="iHmuJ2cZr9vdGcVTkyyy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-2" value="1.0组件构建" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-2" value="1.0组件&lt;br&gt;AndroidBuildInit步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="110" y="305" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-4" target="iHmuJ2cZr9vdGcVTkyyy-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHmuJ2cZr9vdGcVTkyyy-4" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="380" y="305" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-6" target="iHmuJ2cZr9vdGcVTkyyy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-6" value="执行&lt;br&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="710" y="305.5" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-8" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="308" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-11" target="iHmuJ2cZr9vdGcVTkyyy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-11" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="542.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-13" target="iHmuJ2cZr9vdGcVTkyyy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-13" value="1.0组件&lt;br&gt;AppFactoryFlutterBuilder步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="300" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-15" target="iHmuJ2cZr9vdGcVTkyyy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-15" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-17" target="iHmuJ2cZr9vdGcVTkyyy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-17" value="执行&lt;br&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="542.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
