@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T13:13:17.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="8oOtnxG8AuJhOfK0mh59" version="21.6.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-01T13:15:32.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="Q7-vHHfTXGGWNV4O44TH" version="21.6.6" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3702,50 +3702,50 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-44" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="790" width="101" height="50" as="geometry" />
+          <mxGeometry x="451.5" y="655" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-46" target="TVIMPHO5ldjRABQr7Ujx-50" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-46" target="TVIMPHO5ldjRABQr7Ujx-50" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="158" y="964" as="targetPoint" />
+            <mxPoint x="502" y="829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-46" value="读取本地component.yaml" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="890" width="120" height="50" as="geometry" />
+          <mxGeometry x="615.75" y="655" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-55" value="匹配成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-50" target="TVIMPHO5ldjRABQr7Ujx-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4YJXZp6FQ24m7BUm6gW-1" value="匹配失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-50" target="TVIMPHO5ldjRABQr7Ujx-56" edge="1">
+        <mxCell id="q4YJXZp6FQ24m7BUm6gW-1" value="匹配失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-50" target="TVIMPHO5ldjRABQr7Ujx-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="1030" />
-              <mxPoint x="300" y="1260" />
+              <mxPoint x="880.75" y="795" />
+              <mxPoint x="1315.75" y="795" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-50" value="使用git地址&lt;br&gt;匹配2.0组件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="91.25" y="990" width="133.5" height="80" as="geometry" />
+          <mxGeometry x="814.25" y="640" width="133.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-54" target="TVIMPHO5ldjRABQr7Ujx-56" edge="1">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-54" target="TVIMPHO5ldjRABQr7Ujx-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-54" value="使用组件信息&lt;br&gt;生成component.yaml&lt;br&gt;中的基础部分" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1033.25" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4YJXZp6FQ24m7BUm6gW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-56" target="q4YJXZp6FQ24m7BUm6gW-2" edge="1">
+        <mxCell id="q4YJXZp6FQ24m7BUm6gW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TVIMPHO5ldjRABQr7Ujx-56" target="q4YJXZp6FQ24m7BUm6gW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-56" value="写入本地component.yaml" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="1230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1255.75" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4YJXZp6FQ24m7BUm6gW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-2" target="q4YJXZp6FQ24m7BUm6gW-4" edge="1">
+        <mxCell id="q4YJXZp6FQ24m7BUm6gW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-2" target="q4YJXZp6FQ24m7BUm6gW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-2" value="检测component.yaml字段是否完整" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1475.75" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-4" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="108" y="1480" width="100" height="60" as="geometry" />
+          <mxGeometry x="1701.75" y="655" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4YJXZp6FQ24m7BUm6gW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q4YJXZp6FQ24m7BUm6gW-7" target="q4YJXZp6FQ24m7BUm6gW-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
