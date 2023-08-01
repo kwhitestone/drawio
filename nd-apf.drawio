@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T03:13:57.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="dRR4o1Hh1Qf4r18ZVO-Z" version="21.6.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-08-01T06:09:47.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="48b9WOjip1NE4wyQ513W" version="21.6.6" type="github" pages="19">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3491,7 +3491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QsWovDg-wG-nThfoxzAy" name="第 18 页">
-    <mxGraphModel dx="1379" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3599,6 +3599,18 @@
         <mxCell id="J6oZdAE6Vk3DJ0QCX4Yz-28" value="组件产物" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="8jKeVdv5rhUyBU_RczK6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8jKeVdv5rhUyBU_RczK6-1" target="J6oZdAE6Vk3DJ0QCX4Yz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jKeVdv5rhUyBU_RczK6-1" value="产品开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8jKeVdv5rhUyBU_RczK6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8jKeVdv5rhUyBU_RczK6-2" target="J6oZdAE6Vk3DJ0QCX4Yz-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8jKeVdv5rhUyBU_RczK6-2" value="组件开发者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="495" y="-99" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3690,22 +3702,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVIMPHO5ldjRABQr7Ujx-44" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="107" y="740" width="101" height="50" as="geometry" />
+          <mxGeometry x="107.5" y="790" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-46" target="TVIMPHO5ldjRABQr7Ujx-48">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-46" target="TVIMPHO5ldjRABQr7Ujx-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-46" value="读取本地component.yaml" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="890" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-50" target="TVIMPHO5ldjRABQr7Ujx-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-46" value="组件构建" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="98" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-50" value="使用git地址&lt;br&gt;匹配2.0组件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="91.25" y="990" width="133.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-48" target="TVIMPHO5ldjRABQr7Ujx-49">
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVIMPHO5ldjRABQr7Ujx-54" target="TVIMPHO5ldjRABQr7Ujx-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-48" value="2.0 Gradle脚本" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="98" y="950" width="120" height="50" as="geometry" />
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-54" value="使用组件信息&lt;br&gt;生成component.yaml&lt;br&gt;中的基础部分" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVIMPHO5ldjRABQr7Ujx-49" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="108" y="1050" width="100" height="60" as="geometry" />
+        <mxCell id="TVIMPHO5ldjRABQr7Ujx-56" value="写入" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
