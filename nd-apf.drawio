@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T13:19:14.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="YyiN8qcYRSx_p3BlHNqQ" version="21.6.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-02T07:28:01.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="HIuGHi4cevqJvx7sCJuq" version="21.6.6" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3991,59 +3991,161 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-1" target="iHmuJ2cZr9vdGcVTkyyy-2">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-1" target="iHmuJ2cZr9vdGcVTkyyy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="302.5" width="100" height="60" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="172.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-2" target="iHmuJ2cZr9vdGcVTkyyy-4">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-2" target="iHmuJ2cZr9vdGcVTkyyy-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-2" value="1.0组件&lt;br&gt;AndroidBuildInit步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="200" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-2" value="1.0组件&lt;br&gt;AndroidBuildInit步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="170" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-4" target="iHmuJ2cZr9vdGcVTkyyy-6">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-4" target="iHmuJ2cZr9vdGcVTkyyy-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-4" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="300" width="250" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-4" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="170" width="250" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-6" target="iHmuJ2cZr9vdGcVTkyyy-8">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-6" target="iHmuJ2cZr9vdGcVTkyyy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-6" value="执行&lt;br&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="300.5" width="200" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-6" value="执行&lt;br&gt;apf-cmp2-ci-android" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="30" y="170.5" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-8" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="990" y="303" width="100" height="60" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-8" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="320" y="173" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-11" target="iHmuJ2cZr9vdGcVTkyyy-13">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-11" target="iHmuJ2cZr9vdGcVTkyyy-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-11" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="542.5" width="100" height="60" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-11" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="412.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-13" target="iHmuJ2cZr9vdGcVTkyyy-15">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-13" target="iHmuJ2cZr9vdGcVTkyyy-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-13" value="1.0组件&lt;br&gt;AppFactoryFlutterBuilder步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="114" y="540" width="300" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-13" value="1.0组件&lt;br&gt;AppFactoryFlutterBuilder步骤" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-556" y="410" width="300" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-15" target="iHmuJ2cZr9vdGcVTkyyy-17">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-15" target="iHmuJ2cZr9vdGcVTkyyy-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-15" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-flutter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="520" y="540" width="250" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-15" value="下载2.0组件构建工具&lt;br style=&quot;font-size: 20px;&quot;&gt;apf-cmp2-ci-flutter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="410" width="250" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-17" target="iHmuJ2cZr9vdGcVTkyyy-18">
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iHmuJ2cZr9vdGcVTkyyy-17" target="iHmuJ2cZr9vdGcVTkyyy-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-17" value="执行&lt;br&gt;apf-cmp2-ci-flutter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="890" y="540" width="200" height="65" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-17" value="执行&lt;br&gt;apf-cmp2-ci-flutter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="220" y="410" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="542.5" width="100" height="60" as="geometry" />
+        <mxCell id="iHmuJ2cZr9vdGcVTkyyy-18" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="412.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-1" target="MOx09mk1Rdi-kVi3Oi_V-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-2" target="MOx09mk1Rdi-kVi3Oi_V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-2" value="获取APP对应的2.0组件列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-558" y="708" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-4" target="MOx09mk1Rdi-kVi3Oi_V-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-4" value="编辑gradle" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="708" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-5" target="MOx09mk1Rdi-kVi3Oi_V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-5" value="编辑components.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="710" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-6" target="MOx09mk1Rdi-kVi3Oi_V-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-6" value="编辑build.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="314" y="710" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-7" target="MOx09mk1Rdi-kVi3Oi_V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-7" value="编辑services.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="314" y="920" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-8" target="MOx09mk1Rdi-kVi3Oi_V-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-8" value="编辑routes.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-9" target="MOx09mk1Rdi-kVi3Oi_V-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-9" value="生成组件间接口调用的Adapter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-256" y="920" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-10" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="922.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-19" target="MOx09mk1Rdi-kVi3Oi_V-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-19" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1122" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-21" target="MOx09mk1Rdi-kVi3Oi_V-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-21" value="获取APP对应的2.0组件列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-588" y="1120" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-23" target="MOx09mk1Rdi-kVi3Oi_V-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-23" value="编辑Flutter pubspec.yaml" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1120" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-25" target="MOx09mk1Rdi-kVi3Oi_V-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-25" value="编辑components.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1122" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-27" target="MOx09mk1Rdi-kVi3Oi_V-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-27" value="编辑build.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1122" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-29" target="MOx09mk1Rdi-kVi3Oi_V-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-29" value="编辑services.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="284" y="1332" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-31" target="MOx09mk1Rdi-kVi3Oi_V-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-31" value="编辑routes.json" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry y="1332" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-33" target="MOx09mk1Rdi-kVi3Oi_V-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-33" value="生成组件间接口调用的Adapter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="1332" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-34" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1334.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
