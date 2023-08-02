@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T07:28:01.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="HIuGHi4cevqJvx7sCJuq" version="21.6.6" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-02T07:28:17.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="Z_Yk2g8_8g-hf5-VkRKW" version="21.6.6" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4054,7 +4054,7 @@
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-2" target="MOx09mk1Rdi-kVi3Oi_V-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-2" value="获取APP对应的2.0组件列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-2" value="获取APP对应的2.0组件列表(过滤Android)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-558" y="708" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-4" target="MOx09mk1Rdi-kVi3Oi_V-5">
@@ -4105,7 +4105,7 @@
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-21" target="MOx09mk1Rdi-kVi3Oi_V-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-21" value="获取APP对应的2.0组件列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="MOx09mk1Rdi-kVi3Oi_V-21" value="获取APP对应的2.0组件列表(过滤Flutter)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-588" y="1120" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-23" target="MOx09mk1Rdi-kVi3Oi_V-25">
