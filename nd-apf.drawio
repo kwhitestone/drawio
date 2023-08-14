@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T03:30:47.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="FLiGGdjU5fsgwrniqRJ6" version="21.6.7" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-08-14T03:35:55.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="GtUMopanDsiB9hSjJauh" version="21.6.7" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2206" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3213,8 +3213,8 @@
         <mxCell id="Kov7wZFRVRDUnjMP_aU_-3" value="移动业务组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="600" y="130" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kov7wZFRVRDUnjMP_aU_-4" value="技术货架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1152" y="129" width="140" height="60" as="geometry" />
+        <mxCell id="Kov7wZFRVRDUnjMP_aU_-4" value="移动业务组件库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="130" width="158" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arSowEvebMh_JG98tJCr-1" value="Flutter组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="450" width="170" height="60" as="geometry" />
