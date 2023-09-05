@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T01:22:21.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="ck2nQD310PIXqmrDEoLZ" version="21.6.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-09-05T01:23:03.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="1SaD6vMRI5tz4dCVzCND" version="21.6.9" type="github" pages="21">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2213" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3573,7 +3573,7 @@
         <mxCell id="w7UMdM0jqBINpvFWt0F--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="w7UMdM0jqBINpvFWt0F--7" target="w7UMdM0jqBINpvFWt0F--11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w7UMdM0jqBINpvFWt0F--6" value="提交代码&lt;br&gt;各类配置、资源等等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;entryPerimeter=0;" parent="1" source="w7UMdM0jqBINpvFWt0F--7" target="w7UMdM0jqBINpvFWt0F--38" edge="1">
+        <mxCell id="w7UMdM0jqBINpvFWt0F--6" value="提交代码&lt;br&gt;各类配置、资源等等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;entryPerimeter=0;fontColor=#AB794B;" parent="1" source="w7UMdM0jqBINpvFWt0F--7" target="w7UMdM0jqBINpvFWt0F--38" edge="1">
           <mxGeometry x="-0.31" y="1" relative="1" as="geometry">
             <mxPoint x="3.5" y="4100" as="targetPoint" />
             <mxPoint x="1" as="offset" />
@@ -3850,7 +3850,7 @@
         <mxCell id="h2rSyyzObFFaCZ91_GVU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="h2rSyyzObFFaCZ91_GVU-7" target="h2rSyyzObFFaCZ91_GVU-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h2rSyyzObFFaCZ91_GVU-6" value="提交代码&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;各类配置、资源等等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;entryPerimeter=0;" parent="1" source="h2rSyyzObFFaCZ91_GVU-7" target="h2rSyyzObFFaCZ91_GVU-24" edge="1">
+        <mxCell id="h2rSyyzObFFaCZ91_GVU-6" value="提交代码&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;各类配置、资源等等" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;entryPerimeter=0;fontColor=#AB794B;" parent="1" source="h2rSyyzObFFaCZ91_GVU-7" target="h2rSyyzObFFaCZ91_GVU-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-26.5" y="4982" as="targetPoint" />
           </mxGeometry>
