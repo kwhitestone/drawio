@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T06:54:44.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="5sGkLnIWBf8Sq1lXpUAN" version="21.7.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-10-08T07:05:15.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="JujvyHBCFcU15Hzntw6h" version="21.7.4" type="github" pages="22">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4821,7 +4821,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1_w8IaVeOeE-Otxb8MlO" name="第 22 页">
-    <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4829,64 +4829,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="95" y="20" width="70" height="50" as="geometry" />
+          <mxGeometry x="78" y="-1100" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-3" target="iffFifvkTiR7FqDFGJc_-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-3" value="组件构建" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="53" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-5" target="iffFifvkTiR7FqDFGJc_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-5" value="上传pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="53" y="-845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-7" target="iffFifvkTiR7FqDFGJc_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-9" value="存储组件与接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-12" target="iffFifvkTiR7FqDFGJc_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="595" y="410" width="70" height="50" as="geometry" />
+          <mxGeometry x="485" y="-710" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-13" target="iffFifvkTiR7FqDFGJc_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-13" value="APP配置" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-17" target="iffFifvkTiR7FqDFGJc_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-17" value="获取组件与接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-20" target="iffFifvkTiR7FqDFGJc_-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-20" value="匹配组件接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-23" target="iffFifvkTiR7FqDFGJc_-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-23" value="组件匹配关系&lt;br&gt;写入APP配置" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-25" target="iffFifvkTiR7FqDFGJc_-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-25" value="APP构建" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="658" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-27" target="iffFifvkTiR7FqDFGJc_-29">
           <mxGeometry relative="1" as="geometry" />
@@ -4895,37 +4895,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-27" value="获取APP组件列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-29" target="iffFifvkTiR7FqDFGJc_-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-29" value="获取组件匹配关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="316" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-31" target="iffFifvkTiR7FqDFGJc_-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-31" value="根据组件列表生成启动Server的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="658" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-33" target="iffFifvkTiR7FqDFGJc_-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-33" value="记录组件的server地址" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="658" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-35" value="根据组件匹配关系生成启动Client Channel的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="658" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-38" target="iffFifvkTiR7FqDFGJc_-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="805" y="785" width="70" height="50" as="geometry" />
+          <mxGeometry x="683" y="-335" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-41" value="组件匹配关系&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="326" y="890" width="100" height="60" as="geometry" />
+          <mxGeometry x="271" y="-220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fakiYR4KBbZye1mocQsc-18" value="组件构建" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="13" y="-1140" width="200" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="fakiYR4KBbZye1mocQsc-19" value="组件管理服务" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="213" y="-1140" width="200" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="fakiYR4KBbZye1mocQsc-20" value="拼装工厂" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="413" y="-1140" width="200" height="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="fakiYR4KBbZye1mocQsc-21" value="APP构建" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="613" y="-1140" width="200" height="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
