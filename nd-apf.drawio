@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T01:23:03.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="1SaD6vMRI5tz4dCVzCND" version="21.6.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-10-08T06:54:44.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="5sGkLnIWBf8Sq1lXpUAN" version="21.7.4" type="github" pages="22">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
-    <mxGraphModel dx="2213" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4657,7 +4657,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8hVzN1h4CJPafAjMACb1" name="第 21 页">
-    <mxGraphModel dx="2213" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2853" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4719,19 +4719,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="710" width="100" height="60" as="geometry" />
+          <mxGeometry x="-750" y="712" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-2" target="MOx09mk1Rdi-kVi3Oi_V-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-2" value="获取APP对应的2.0组件列表(过滤Android)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-558" y="708" width="200" height="65" as="geometry" />
+          <mxGeometry x="-558" y="710" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-4" target="MOx09mk1Rdi-kVi3Oi_V-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-4" value="编辑gradle" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="708" width="200" height="65" as="geometry" />
+          <mxGeometry x="-260" y="710" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-5" target="MOx09mk1Rdi-kVi3Oi_V-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4770,19 +4770,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-19" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="1152" width="100" height="60" as="geometry" />
+          <mxGeometry x="-740" y="1154" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-21" target="MOx09mk1Rdi-kVi3Oi_V-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-21" value="获取APP对应的2.0组件列表(过滤Flutter)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-548" y="1150" width="200" height="65" as="geometry" />
+          <mxGeometry x="-548" y="1152" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-23" target="MOx09mk1Rdi-kVi3Oi_V-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-23" value="编辑Flutter pubspec.yaml" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="1150" width="200" height="65" as="geometry" />
+          <mxGeometry x="-250" y="1152" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MOx09mk1Rdi-kVi3Oi_V-25" target="MOx09mk1Rdi-kVi3Oi_V-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4816,6 +4816,116 @@
         </mxCell>
         <mxCell id="MOx09mk1Rdi-kVi3Oi_V-34" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-480" y="1364.5" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1_w8IaVeOeE-Otxb8MlO" name="第 22 页">
+    <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iffFifvkTiR7FqDFGJc_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-2" target="iffFifvkTiR7FqDFGJc_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="20" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-3" target="iffFifvkTiR7FqDFGJc_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-3" value="组件构建" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-5" target="iffFifvkTiR7FqDFGJc_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-5" value="上传pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-7" target="iffFifvkTiR7FqDFGJc_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-9" value="存储组件与接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-12" target="iffFifvkTiR7FqDFGJc_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="595" y="410" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-13" target="iffFifvkTiR7FqDFGJc_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-13" value="APP配置" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-17" target="iffFifvkTiR7FqDFGJc_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-17" value="获取组件与接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-20" target="iffFifvkTiR7FqDFGJc_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-20" value="匹配组件接口" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-23" target="iffFifvkTiR7FqDFGJc_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-23" value="组件匹配关系&lt;br&gt;写入APP配置" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-25" target="iffFifvkTiR7FqDFGJc_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-25" value="APP构建" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-27" target="iffFifvkTiR7FqDFGJc_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-27" target="iffFifvkTiR7FqDFGJc_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-27" value="获取APP组件列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-29" target="iffFifvkTiR7FqDFGJc_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-29" value="获取组件匹配关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-31" target="iffFifvkTiR7FqDFGJc_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-31" value="根据组件列表生成启动Server的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-33" target="iffFifvkTiR7FqDFGJc_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-33" value="记录组件的server地址" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-35" value="根据组件匹配关系生成启动Client Channel的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-38" target="iffFifvkTiR7FqDFGJc_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="805" y="785" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-41" value="组件匹配关系&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="326" y="890" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
