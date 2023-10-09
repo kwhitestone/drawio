@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T03:19:11.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="24gtW7ik0MAkYYp8Jtoh" version="21.7.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-10-09T03:23:35.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="f1-ut8uJUBeljymcOUzE" version="21.7.4" type="github" pages="22">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4915,7 +4915,7 @@
         <mxCell id="iffFifvkTiR7FqDFGJc_-33" value="记录组件的GRPC Server地址" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="659" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-35" value="根据组件匹配关系生成启动Client Channel的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iffFifvkTiR7FqDFGJc_-35" value="根据组件匹配关系生成启动GRPC Client Channel的代码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="659" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-38" target="iffFifvkTiR7FqDFGJc_-25">
