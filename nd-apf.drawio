@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T06:34:40.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="msGkyeElGXSV3mgR0BlE" version="21.7.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-10-09T06:59:41.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="u51ZPi0TEmle5n_9RPTB" version="21.7.4" type="github" pages="22">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4840,18 +4840,6 @@
         <mxCell id="iffFifvkTiR7FqDFGJc_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-5" target="iffFifvkTiR7FqDFGJc_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-5" value="上传GRPC&amp;nbsp;pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="54" y="-490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-7" target="iffFifvkTiR7FqDFGJc_-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析GRPCpb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="-490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-9" value="存储组件与GRPC接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="262" y="-360" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-12" target="iffFifvkTiR7FqDFGJc_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -4912,9 +4900,6 @@
         <mxCell id="iffFifvkTiR7FqDFGJc_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iffFifvkTiR7FqDFGJc_-33" target="iffFifvkTiR7FqDFGJc_-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-33" value="记录组件的GRPC Server地址" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="659" y="485" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-35" value="根据组件匹配关系生成启动GRPC Client Channel的代码&lt;br&gt;（Adapter)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="659" y="605" width="120" height="60" as="geometry" />
         </mxCell>
@@ -4927,8 +4912,20 @@
         <mxCell id="fakiYR4KBbZye1mocQsc-18" value="组件构建" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="14" y="-810" width="200" height="1630" as="geometry" />
         </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-5" value="上传GRPC&amp;nbsp;pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-18">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="fakiYR4KBbZye1mocQsc-19" value="组件管理服务" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="214" y="-810" width="200" height="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析GRPCpb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-19">
+          <mxGeometry x="48" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-9" value="存储组件与GRPC接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-19">
+          <mxGeometry x="48" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fakiYR4KBbZye1mocQsc-19" source="iffFifvkTiR7FqDFGJc_-7" target="iffFifvkTiR7FqDFGJc_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fakiYR4KBbZye1mocQsc-20" value="拼装工厂" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="414" y="-810" width="200" height="1630" as="geometry" />
@@ -4938,6 +4935,9 @@
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="fakiYR4KBbZye1mocQsc-21">
           <mxGeometry x="70" y="945" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iffFifvkTiR7FqDFGJc_-33" value="记录组件的GRPC Server地址" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-21">
+          <mxGeometry x="45" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wei1ROvdh_WoEzBO-brU-1" value="组件开发" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="-186" y="-810" width="200" height="1630" as="geometry" />
