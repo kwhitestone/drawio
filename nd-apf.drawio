@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T06:59:41.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="u51ZPi0TEmle5n_9RPTB" version="21.7.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-10-10T10:24:25.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="qcyrYCex4DHB1SaYUHsU" version="21.7.4" type="github" pages="22">
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
     <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4918,7 +4918,7 @@
         <mxCell id="fakiYR4KBbZye1mocQsc-19" value="组件管理服务" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="214" y="-810" width="200" height="1630" as="geometry" />
         </mxCell>
-        <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析GRPCpb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-19">
+        <mxCell id="iffFifvkTiR7FqDFGJc_-7" value="解析GRPC pb文件" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-19">
           <mxGeometry x="48" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iffFifvkTiR7FqDFGJc_-9" value="存储组件与GRPC接口对应关系" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="fakiYR4KBbZye1mocQsc-19">
