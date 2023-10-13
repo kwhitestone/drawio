@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T06:37:32.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="5P-kF_Ge49EAkXSh54YD" version="22.0.4" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-10-13T06:48:05.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="AO8k97venmGNwZDBx4pQ" version="22.0.4" type="github" pages="25">
   <diagram id="jXBrsB6e3_kT3NnNMN8-" name="拼装工厂基础原理">
-    <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,7 +574,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="框架初始化" id="u-AJXG04gfKVnk7us_Lw">
-    <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -865,7 +865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EmNCbbEgvvmQpiy-0B4m" name="框架类图">
-    <mxGraphModel dx="2853" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3347" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1739,7 +1739,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T7VTFtQMnaO6de8BKQjX" name="使用方视角">
-    <mxGraphModel dx="2458" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2381,7 +2381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8FxoIAl-sBclGLts709_" name="组件1.0示意图">
-    <mxGraphModel dx="1386" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4620" dy="3017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2929,7 +2929,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yDMbL1-84TIrV3nOoE8j" name="组件2.0管理流程">
-    <mxGraphModel dx="3137" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3070,7 +3070,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fOkJoXp6RoEK8tEpaaHk" name="2.0组件">
-    <mxGraphModel dx="8025" dy="4789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9411" dy="5694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4088,7 +4088,7 @@
           <mxGeometry x="310" y="822" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cYX2lRkb5lg0npM8qbyA-11" value="拼装工厂2.0" style="html=1;dropTarget=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="310" width="150" height="380" as="geometry" />
+          <mxGeometry x="1250" y="130" width="150" height="380" as="geometry" />
         </mxCell>
         <mxCell id="cYX2lRkb5lg0npM8qbyA-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="cYX2lRkb5lg0npM8qbyA-11" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -4096,10 +4096,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cYX2lRkb5lg0npM8qbyA-13" value="2.0组件" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="310" width="150" height="100" as="geometry" />
+          <mxGeometry x="1480" y="130" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cYX2lRkb5lg0npM8qbyA-14" value="2.0组件接口层" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1784" y="345" width="100" height="50" as="geometry" />
+          <mxGeometry x="1514" y="165" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K0k3jh7WI-69zsBI_1ne-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="K0k3jh7WI-69zsBI_1ne-1" target="9PwoAUyzIHV3uc1FK-vG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6111,7 +6111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8eXNR2RSw2qFdkt2YqyF" name="组件间解耦">
-    <mxGraphModel dx="2853" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6224,7 +6224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8hVzN1h4CJPafAjMACb1" name="组件2.0构建插件">
-    <mxGraphModel dx="2853" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6388,7 +6388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1_w8IaVeOeE-Otxb8MlO" name="GRPC 接口治理流程">
-    <mxGraphModel dx="2853" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6534,7 +6534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MmMFKjba9_9W2vkBLPeG" name="GRPC 解耦方案设计">
-    <mxGraphModel dx="2026" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
