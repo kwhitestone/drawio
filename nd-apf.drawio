@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T02:44:35.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="SRcrwgdGCfwWpSzI1jGc" version="22.0.4" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-10-23T03:41:19.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="70ijM_vKr2um6NY87k3g" version="22.0.4" type="github" pages="25">
   <diagram id="jXBrsB6e3_kT3NnNMN8-" name="拼装工厂基础原理">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6534,141 +6534,182 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MmMFKjba9_9W2vkBLPeG" name="GRPC 解耦方案设计">
-    <mxGraphModel dx="1386" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-15" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Provider Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-15" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Provider Component&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="430" y="-790" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-16" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-15" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-16" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-15" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-17" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Require Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-17" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Require Component&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="790" y="-790" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-18" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-17" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-18" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-17" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;GRPC Server&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-1" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC Server&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="470" y="-750" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-1" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-3" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;GRPC Client&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-3" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC Client&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="830" y="-750" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-3" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-3" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;APP&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-5" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;APP&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="620" y="-560" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-5" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-5" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;GRPC MGR&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-8" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="-520" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-8" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-8" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-13" value="Provide(cmpid,address)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-1" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
-          <mxGeometry x="0.0566" y="-10" width="160" relative="1" as="geometry">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-13" value="Provide(cmpid,address)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-1" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
+          <mxGeometry x="-0.5472" width="160" relative="1" as="geometry">
             <mxPoint x="540" y="-550" as="sourcePoint" />
             <mxPoint x="700" y="-550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-14" value="Require(cmpid) : address" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-3" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
-          <mxGeometry x="-0.0175" width="160" relative="1" as="geometry">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-14" value="Require(cmpid) : address" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-3" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
+          <mxGeometry x="-0.5789" width="160" relative="1" as="geometry">
             <mxPoint x="860" y="-510" as="sourcePoint" />
             <mxPoint x="1020" y="-510" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-24" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;GRPC MGR Service&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-24" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR Service&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="650" y="-970" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-25" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-24" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-25" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-24" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-26" value="Register Provide(cmpid,grpc idl)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-1" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-26" value="Register Provide(cmpid,grpc idl)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-1" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
           <mxGeometry x="-0.2278" width="160" relative="1" as="geometry">
             <mxPoint x="550" y="-810" as="sourcePoint" />
             <mxPoint x="660" y="-415" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-27" value="Register Require(cmpid,grpc idl)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-3" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-27" value="Register Require(cmpid,grpc idl)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-3" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
           <mxGeometry x="-0.2278" width="160" relative="1" as="geometry">
             <mxPoint x="570" y="-740" as="sourcePoint" />
             <mxPoint x="674" y="-895" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-28" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;APP Build Service&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="-760" width="180" height="90" as="geometry" />
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-28" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;APP Build Service&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="-760" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-28" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-28" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-32" value="Get Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-28" edge="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-32" value="Get Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-28" edge="1">
           <mxGeometry x="-0.2278" width="160" relative="1" as="geometry">
-            <mxPoint x="1320" y="-560" as="sourcePoint" />
-            <mxPoint x="780" y="-970" as="targetPoint" />
+            <mxPoint x="1320" y="-760" as="sourcePoint" />
+            <mxPoint x="790" y="-970" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1300" y="-1040" />
-              <mxPoint x="780" y="-1040" />
+              <mxPoint x="1310" y="-1040" />
+              <mxPoint x="790" y="-1040" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-33" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;APP Configurator&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="120" y="-760" width="180" height="90" as="geometry" />
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-33" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;APP Configurator&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-760" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-34" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="lSp0ETNfEHnnWWk9XNNI-33" vertex="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-34" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" parent="lSp0ETNfEHnnWWk9XNNI-33" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-35" value="Set Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-33" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-35" value="Set Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-33" target="lSp0ETNfEHnnWWk9XNNI-24" edge="1">
           <mxGeometry x="-0.2278" width="160" relative="1" as="geometry">
             <mxPoint x="1310" y="-750" as="sourcePoint" />
             <mxPoint x="750" y="-960" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="210" y="-1040" />
+              <mxPoint x="190" y="-1040" />
               <mxPoint x="700" y="-1040" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSp0ETNfEHnnWWk9XNNI-36" value="Generate Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-28" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
+        <mxCell id="lSp0ETNfEHnnWWk9XNNI-36" value="Generate Cmp Match Info(cmpid to cmpid)" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="lSp0ETNfEHnnWWk9XNNI-28" target="lSp0ETNfEHnnWWk9XNNI-8" edge="1">
           <mxGeometry x="-0.2278" width="160" relative="1" as="geometry">
             <mxPoint x="1550" y="-180" as="sourcePoint" />
             <mxPoint x="1040" y="-390" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1290" y="-350" />
+              <mxPoint x="1310" y="-350" />
               <mxPoint x="730" y="-350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-1" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR Core&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="616.25" y="-220" width="217.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="EXVvpeYPGPjU57pADAxr-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-9" value="Flutter FFI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="EXVvpeYPGPjU57pADAxr-3" target="EXVvpeYPGPjU57pADAxr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-3" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR Flutter&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-4" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="EXVvpeYPGPjU57pADAxr-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-10" value="Go Mobile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="EXVvpeYPGPjU57pADAxr-5" target="EXVvpeYPGPjU57pADAxr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-5" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR Android&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="40" width="255" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="EXVvpeYPGPjU57pADAxr-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-11" value="Go Mobile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="EXVvpeYPGPjU57pADAxr-7" target="EXVvpeYPGPjU57pADAxr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-7" value="&lt;p style=&quot;margin: 6px 0px 0px; text-align: center; font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;GRPC MGR iOS&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="970" y="40" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EXVvpeYPGPjU57pADAxr-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="EXVvpeYPGPjU57pADAxr-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
