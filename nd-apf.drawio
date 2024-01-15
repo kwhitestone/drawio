@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T05:21:55.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sjD9ItW-3qDbwKAc6wvE" version="22.1.18" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2024-01-15T05:24:26.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="R1jTvBcpYcYR54TjhH-9" version="22.1.18" type="github" pages="28">
   <diagram id="jXBrsB6e3_kT3NnNMN8-" name="拼装工厂基础原理">
     <mxGraphModel dx="2026" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7066,14 +7066,30 @@
         <mxCell id="3Eoj8FNAkfrtE7o8Y02B-10" value="2.0构建工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3Eoj8FNAkfrtE7o8Y02B-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Eoj8FNAkfrtE7o8Y02B-15" target="3Eoj8FNAkfrtE7o8Y02B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Eoj8FNAkfrtE7o8Y02B-25" value="插件方式集成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="3Eoj8FNAkfrtE7o8Y02B-24">
+          <mxGeometry x="-0.2199" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Eoj8FNAkfrtE7o8Y02B-26" value="原生方式集成" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="3Eoj8FNAkfrtE7o8Y02B-15" target="3Eoj8FNAkfrtE7o8Y02B-7">
+          <mxGeometry x="-0.1862" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3Eoj8FNAkfrtE7o8Y02B-15" value="原生业务组件" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="640" width="175" height="200" as="geometry" />
+          <mxGeometry x="440" y="880" width="690" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3Eoj8FNAkfrtE7o8Y02B-16" value="IM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Eoj8FNAkfrtE7o8Y02B-17" value="微博" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Eoj8FNAkfrtE7o8Y02B-23" value="考试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="900" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
