@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T11:46:14.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="QEIqhstiaELbDBy4O1W_" version="24.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:47:31.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="BnTowq-vpyxDJMGuMUae" version="24.1.0" type="github" pages="6">
   <diagram name="第 1 页" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="2342" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,25 +674,25 @@
           <mxGeometry x="1040" y="1670" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nAVoFeNejGMbY6vu1MGS-47" value="基于接口的拼装框架" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="1280" width="190" height="570" as="geometry" />
+          <mxGeometry x="1600" y="1267" width="190" height="570" as="geometry" />
         </mxCell>
         <mxCell id="nAVoFeNejGMbY6vu1MGS-48" value="接口管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nAVoFeNejGMbY6vu1MGS-50" value="服务部署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1657" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nAVoFeNejGMbY6vu1MGS-51" value="客户端打包" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1754" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1741" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nAVoFeNejGMbY6vu1MGS-52" value="可视化组件匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1567" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDFIf_oOzEtEqxCpTVOo-1" value="接口发现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uDFIf_oOzEtEqxCpTVOo-2" value="接口测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1640" y="1477" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
