@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T08:45:56.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="dI16iu-LvV4Pob2I2drw" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-29T10:38:22.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="6IoS5RI0YgRX4GSkHxto" version="24.2.1" type="github" pages="6">
   <diagram name="第 1 页" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1507" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1061,7 +1061,7 @@
         <mxCell id="srVRonz5AVzvEVAIuTsG-54" value="生成工程" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="srVRonz5AVzvEVAIuTsG-46" target="srVRonz5AVzvEVAIuTsG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="srVRonz5AVzvEVAIuTsG-46" value="组件拼装配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="srVRonz5AVzvEVAIuTsG-46" value="组件拼装配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="50" y="2970" width="330" height="105" as="geometry" />
         </mxCell>
         <mxCell id="srVRonz5AVzvEVAIuTsG-55" value="使用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="srVRonz5AVzvEVAIuTsG-47" target="srVRonz5AVzvEVAIuTsG-2" edge="1">
@@ -1072,7 +1072,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="srVRonz5AVzvEVAIuTsG-47" value="2.0构建工具（待开发）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="srVRonz5AVzvEVAIuTsG-47" value="2.0构建工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="740" y="2970" width="330" height="105" as="geometry" />
         </mxCell>
         <mxCell id="srVRonz5AVzvEVAIuTsG-48" value="移动应用" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;" parent="1" vertex="1">
@@ -1124,13 +1124,28 @@
           <mxGeometry x="850" y="2660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RFEyidqao9kDH8--ms1S-3" value="基于Flutter的跨平台壳工程" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="4080" width="800" height="490" as="geometry" />
+          <mxGeometry x="-70" y="4080" width="610" height="490" as="geometry" />
         </mxCell>
         <mxCell id="RFEyidqao9kDH8--ms1S-4" value="Flutter组件&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;框架&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="280" y="4150" width="300" height="90" as="geometry" />
+          <mxGeometry x="260" y="4160" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RFEyidqao9kDH8--ms1S-5" value="应用配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-8" y="4150" width="248" height="90" as="geometry" />
+          <mxGeometry x="-35" y="4160" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RFEyidqao9kDH8--ms1S-7" value="组件配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="4300" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RFEyidqao9kDH8--ms1S-8" value="路由管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="4300" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RFEyidqao9kDH8--ms1S-9" value="页面管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="115" y="4430" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RFEyidqao9kDH8--ms1S-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RFEyidqao9kDH8--ms1S-10" target="RFEyidqao9kDH8--ms1S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFEyidqao9kDH8--ms1S-10" value="组件拼装配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="3890" width="610" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
