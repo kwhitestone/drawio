@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T03:39:46.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="nq84bigdBgukK6Z-NdzB" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-01T05:55:33.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WtMEPa6QA_LBGKepVpDK" version="24.2.1" type="github" pages="6">
   <diagram name="第 1 页" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1507" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1061,7 +1061,7 @@
         <mxCell id="srVRonz5AVzvEVAIuTsG-54" value="生成工程" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="srVRonz5AVzvEVAIuTsG-46" target="srVRonz5AVzvEVAIuTsG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="srVRonz5AVzvEVAIuTsG-46" value="应用工程配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="srVRonz5AVzvEVAIuTsG-46" value="模板工程配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="335" y="2560" width="330" height="105" as="geometry" />
         </mxCell>
         <mxCell id="srVRonz5AVzvEVAIuTsG-55" value="使用" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="srVRonz5AVzvEVAIuTsG-47" target="srVRonz5AVzvEVAIuTsG-2" edge="1">
@@ -1159,23 +1159,26 @@
         <mxCell id="RFEyidqao9kDH8--ms1S-19" value="更新配置管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="214" y="4270" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RFEyidqao9kDH8--ms1S-20" value="应用工程配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="871.5" y="3440" width="652" height="430" as="geometry" />
+        <mxCell id="RFEyidqao9kDH8--ms1S-20" value="模板工程配置工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="885" y="3440" width="652" height="490" as="geometry" />
         </mxCell>
         <mxCell id="RFEyidqao9kDH8--ms1S-21" value="应用配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="940" y="3520" width="240" height="90" as="geometry" />
+          <mxGeometry x="945" y="3640" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RFEyidqao9kDH8--ms1S-22" value="组件配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="3520" width="240" height="90" as="geometry" />
+          <mxGeometry x="1245" y="3640" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8gBj-NNEnWudR13DtfAM-1" value="应用构建工具" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="871.5" y="4050" width="652" height="490" as="geometry" />
         </mxCell>
         <mxCell id="8gBj-NNEnWudR13DtfAM-2" value="路由配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="940" y="3690" width="240" height="90" as="geometry" />
+          <mxGeometry x="945" y="3780" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8gBj-NNEnWudR13DtfAM-3" value="页面配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="3690" width="240" height="90" as="geometry" />
+          <mxGeometry x="1245" y="3780" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8gBj-NNEnWudR13DtfAM-4" value="模板工程处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3500" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
