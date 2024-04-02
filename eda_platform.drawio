@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T06:07:23.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="_HRcyR_2zYvBmeYmeS5k" version="24.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-02T06:54:51.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="16RiaBS6z5gZTKCwzDJ2" version="24.2.1" type="github" pages="5">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
-    <mxGraphModel dx="1860" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2246" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9ZYbhJW23paXT9mcm35l" name="EDA事务外包">
-    <mxGraphModel dx="5030" dy="3988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5673" dy="3988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -766,7 +766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Ox-oqsbACwuFdrOWfx1" name="插件化">
-    <mxGraphModel dx="1033" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1400,6 +1400,35 @@
         </mxCell>
         <mxCell id="KDEGuDjsWzRJR8FgZd93-52" value="基于Flutter的跨平台模板工程" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="786.13" y="3750" width="839.75" height="153" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WCVdSXHW_usd6frRW3ao" name="第 5 页">
+    <mxGraphModel dx="3019" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hNcpRvx_15G1HxtXE_5O-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="4rkqV_v7M18g1VJ7MrZV-2" target="4rkqV_v7M18g1VJ7MrZV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rkqV_v7M18g1VJ7MrZV-2" value="EDA压力测试前端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="-1065" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hNcpRvx_15G1HxtXE_5O-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="4rkqV_v7M18g1VJ7MrZV-8" target="hNcpRvx_15G1HxtXE_5O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rkqV_v7M18g1VJ7MrZV-8" value="EDA压力测试后端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="-1065" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hNcpRvx_15G1HxtXE_5O-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;" edge="1" parent="1" source="hNcpRvx_15G1HxtXE_5O-1" target="4rkqV_v7M18g1VJ7MrZV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hNcpRvx_15G1HxtXE_5O-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="-1060" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hNcpRvx_15G1HxtXE_5O-2" value="EDA后端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="-1165" width="140" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
