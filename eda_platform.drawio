@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:30:03.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="VgBami4Zx8iN5hMWeICV" version="24.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:30:26.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="MoxPYW9zwA837wvfYGnd" version="24.2.1" type="github" pages="7">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1860" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2143,7 +2143,7 @@
           <mxGeometry x="480" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-43" value="2.0 拼装云端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-44" value="代码库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="780" y="630" width="120" height="60" as="geometry" />
