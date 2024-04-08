@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:28:04.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="umqk8neZ8FDamN89g1mp" version="24.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:28:57.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="lJWxE13wWewkC-P7tkIg" version="24.2.1" type="github" pages="7">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1860" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2269,7 +2269,7 @@
         <mxCell id="IFEg74Sj5wePAm4-b8xo-85" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1669" y="1875" width="79" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-86" value="Flutter 壳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-86" value="Flutter壳" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-87" target="IFEg74Sj5wePAm4-b8xo-85">
@@ -2411,7 +2411,7 @@
           <mxGeometry x="1340" y="1309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-57" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1679" y="1314" width="79" height="50" as="geometry" />
+          <mxGeometry x="1669" y="1314" width="79" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-58" value="鸿蒙" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="1169" width="120" height="60" as="geometry" />
