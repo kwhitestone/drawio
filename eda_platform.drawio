@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:30:47.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="wCBPZSjKMVlZFFN3SxGp" version="24.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-08T07:56:18.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="4T2QIRmrFOvMM0CUDexw" version="24.2.1" type="github" pages="7">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1860" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2027,12 +2027,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YypwIzI8s0HeeEkn60WK" name="拼装工厂构建流程">
-    <mxGraphModel dx="2027" dy="2512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2572" dy="2736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-2" value="构建" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-50" width="520" height="2280" as="geometry" />
+          <mxGeometry x="1090" y="-50" width="720" height="2280" as="geometry" />
         </mxCell>
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-1" value="构建准备" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="85" y="-50" width="1005" height="2280" as="geometry" />
@@ -2106,7 +2106,7 @@
         <mxCell id="IFEg74Sj5wePAm4-b8xo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-29" target="IFEg74Sj5wePAm4-b8xo-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-29" value="生成ipa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-29" value="生成ipa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1330" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-31" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2181,7 +2181,7 @@
         <mxCell id="IFEg74Sj5wePAm4-b8xo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-56" target="IFEg74Sj5wePAm4-b8xo-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-56" value="生成 apk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-56" value="生成 apk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1330" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-57" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2263,7 +2263,7 @@
             <mxPoint x="1573" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-84" value="生成 apk(安卓)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-84" value="生成 apk(安卓)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-85" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2275,19 +2275,19 @@
         <mxCell id="IFEg74Sj5wePAm4-b8xo-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-87" target="IFEg74Sj5wePAm4-b8xo-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-87" value="生成 ipa(iOS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-87" value="生成 ipa(iOS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-88" target="IFEg74Sj5wePAm4-b8xo-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-88" value="生成 exe(Windows)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-88" value="生成 exe(Windows)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-89" target="IFEg74Sj5wePAm4-b8xo-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IFEg74Sj5wePAm4-b8xo-89" value="生成WEB发&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%9F%E6%88%90%20exe%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22707%22%20y%3D%221330%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;布包(H5)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IFEg74Sj5wePAm4-b8xo-89" value="生成WEB发&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%94%9F%E6%88%90%20exe%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22707%22%20y%3D%221330%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;布包(H5)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IFEg74Sj5wePAm4-b8xo-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFEg74Sj5wePAm4-b8xo-90" target="IFEg74Sj5wePAm4-b8xo-85">
@@ -2407,7 +2407,7 @@
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hOzs46gNiqh9BuWs_1Ia-56" target="hOzs46gNiqh9BuWs_1Ia-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hOzs46gNiqh9BuWs_1Ia-56" value="生成hap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hOzs46gNiqh9BuWs_1Ia-56" value="生成hap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1340" y="1309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hOzs46gNiqh9BuWs_1Ia-57" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
