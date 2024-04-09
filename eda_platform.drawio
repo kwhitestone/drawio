@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T08:09:42.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="dzvjkvpvXx0Eq2mAMYCP" version="24.2.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-09T01:41:02.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="6jzJBLf86XmNb6vRuUWa" version="24.2.1" type="github" pages="7">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="1860" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1527,14 +1527,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="reaekjZitE8yX16yKNOv" name="Flutter标准化">
-    <mxGraphModel dx="1860" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3R-N7lG4kuSptyVt_QRL-1" value="主工程-Dart层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-170.2" y="330" width="840" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3R-N7lG4kuSptyVt_QRL-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="3R-N7lG4kuSptyVt_QRL-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件A" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-170.2" y="540" width="850" height="240" as="geometry" />
         </mxCell>
         <mxCell id="3R-N7lG4kuSptyVt_QRL-3" value="Dart接口层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -1586,7 +1586,7 @@
         <mxCell id="9ADOHtvTyvYmGSVh2qvB-14" value="主工程-Dart层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-170.2" y="1040" width="840" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9ADOHtvTyvYmGSVh2qvB-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="9ADOHtvTyvYmGSVh2qvB-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件A" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-170.2" y="1230" width="850" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9ADOHtvTyvYmGSVh2qvB-16" value="其它-Dart接口层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -1689,7 +1689,7 @@
         <mxCell id="YnyAen9IzL1uw43F6cGl-1" value="主工程-Dart层" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-10.200000000000003" y="1820" width="840" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YnyAen9IzL1uw43F6cGl-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件-API" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YnyAen9IzL1uw43F6cGl-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Flutter混合组件A-API" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-10.200000000000003" y="2030" width="850" height="130" as="geometry" />
         </mxCell>
         <mxCell id="YnyAen9IzL1uw43F6cGl-3" value="Dart接口层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -1700,7 +1700,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YnyAen9IzL1uw43F6cGl-17" value="Flutter混合组件-鸿蒙" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YnyAen9IzL1uw43F6cGl-17" value="Flutter混合组件A-鸿蒙" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-260.2" y="2299" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YnyAen9IzL1uw43F6cGl-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YnyAen9IzL1uw43F6cGl-18" target="YnyAen9IzL1uw43F6cGl-3" edge="1">
@@ -1709,7 +1709,7 @@
         <mxCell id="YnyAen9IzL1uw43F6cGl-18" value="Dart接口实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-230.2" y="2349" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnyAen9IzL1uw43F6cGl-19" value="Flutter混合组件-安卓+iOS实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YnyAen9IzL1uw43F6cGl-19" value="Flutter混合组件A-安卓+iOS实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="69.8" y="2299" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YnyAen9IzL1uw43F6cGl-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YnyAen9IzL1uw43F6cGl-20" target="YnyAen9IzL1uw43F6cGl-3" edge="1">
@@ -1718,7 +1718,7 @@
         <mxCell id="YnyAen9IzL1uw43F6cGl-20" value="Dart接口实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="99.8" y="2349" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnyAen9IzL1uw43F6cGl-21" value="Flutter混合组件-WEB实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YnyAen9IzL1uw43F6cGl-21" value="Flutter混合组件A-WEB实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="399.8" y="2299" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YnyAen9IzL1uw43F6cGl-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YnyAen9IzL1uw43F6cGl-22" target="YnyAen9IzL1uw43F6cGl-3" edge="1">
@@ -1727,7 +1727,7 @@
         <mxCell id="YnyAen9IzL1uw43F6cGl-22" value="Dart接口实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="429.8" y="2349" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YnyAen9IzL1uw43F6cGl-23" value="Flutter混合组件-桌面实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YnyAen9IzL1uw43F6cGl-23" value="Flutter混合组件A-桌面实现" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="749.8" y="2299" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="YnyAen9IzL1uw43F6cGl-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;startSize=8;endSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="YnyAen9IzL1uw43F6cGl-24" target="YnyAen9IzL1uw43F6cGl-3" edge="1">
