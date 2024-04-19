@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T11:10:29.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6x61EKpAJ0yf3Fl7oQp4" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-19T00:37:58.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WSNHDB9SsLjYSerEZkNz" version="24.2.3" type="github" pages="8">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="2877" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2442,10 +2442,10 @@
         <mxCell id="98dt2D3QFJZeCUxRPdBg-40" value="开始发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-1">
           <mxGeometry x="40" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="98dt2D3QFJZeCUxRPdBg-63" value="发布失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-1">
+        <mxCell id="98dt2D3QFJZeCUxRPdBg-63" value="发布失败" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-1">
           <mxGeometry x="40" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="98dt2D3QFJZeCUxRPdBg-65" value="发布完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-1">
+        <mxCell id="98dt2D3QFJZeCUxRPdBg-65" value="发布完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-1">
           <mxGeometry x="40" y="1721" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98dt2D3QFJZeCUxRPdBg-7" value="代码库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2478,7 +2478,7 @@
         <mxCell id="98dt2D3QFJZeCUxRPdBg-43" value="配置快照" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-17">
           <mxGeometry x="40" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="98dt2D3QFJZeCUxRPdBg-53" value="记录版本与配置的对应关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-17">
+        <mxCell id="98dt2D3QFJZeCUxRPdBg-53" value="记录版本与配置的对应关系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-17">
           <mxGeometry x="40" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98dt2D3QFJZeCUxRPdBg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="98dt2D3QFJZeCUxRPdBg-17" source="98dt2D3QFJZeCUxRPdBg-57" target="98dt2D3QFJZeCUxRPdBg-60">
@@ -2508,7 +2508,7 @@
         <mxCell id="98dt2D3QFJZeCUxRPdBg-45" value="更新配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-28">
           <mxGeometry x="32" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="98dt2D3QFJZeCUxRPdBg-47" value="提示开发人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-28">
+        <mxCell id="98dt2D3QFJZeCUxRPdBg-47" value="提示开发人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-28">
           <mxGeometry x="32" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98dt2D3QFJZeCUxRPdBg-49" value="服务发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="98dt2D3QFJZeCUxRPdBg-28">
