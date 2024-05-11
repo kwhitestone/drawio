@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T08:56:49.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="sRF2AICeIkAON5lzfGYW" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-11T08:57:35.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="52jQrAYfz4svAOZlsy6w" version="24.3.1" type="github" pages="10">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="2370" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3918,7 +3918,7 @@
         <mxCell id="U5ZUQh9CmUVv1zPFmuLy-54" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-779" y="9090" width="20" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-55" value="查看已导入的课程列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1" target="U5ZUQh9CmUVv1zPFmuLy-56">
+        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-55" value="查看已创建的学习计划列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1" target="U5ZUQh9CmUVv1zPFmuLy-56">
           <mxGeometry x="-0.0053" relative="1" as="geometry">
             <mxPoint x="-770" y="9212" as="sourcePoint" />
             <mxPoint x="-476" y="9212" as="targetPoint" />
@@ -3931,7 +3931,7 @@
         <mxCell id="U5ZUQh9CmUVv1zPFmuLy-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-86.5" y="9248" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-58" value="获取已导入的课程列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="U5ZUQh9CmUVv1zPFmuLy-56" target="U5ZUQh9CmUVv1zPFmuLy-57">
+        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-58" value="获取已创建的学习计划列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="U5ZUQh9CmUVv1zPFmuLy-56" target="U5ZUQh9CmUVv1zPFmuLy-57">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="-445" y="9253" as="sourcePoint" />
             <mxPoint x="1403.5" y="9558" as="targetPoint" />
@@ -3944,14 +3944,14 @@
             <mxPoint x="683.5" y="9290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-60" value="将课程绑定到用户" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-60" value="将学习计划绑定到用户" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry x="-0.0053" relative="1" as="geometry">
             <mxPoint x="-769" y="9420" as="sourcePoint" />
             <mxPoint x="-448" y="9420" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-61" value="将课程绑定到用户" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="U5ZUQh9CmUVv1zPFmuLy-61" value="将学习计划绑定到用户" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry x="-0.0053" relative="1" as="geometry">
             <mxPoint x="-439" y="9446" as="sourcePoint" />
             <mxPoint x="-85" y="9446" as="targetPoint" />
