@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T08:51:30.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="63sSofcbAbj3QUVWIMh1" version="24.5.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-06-18T14:29:03.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="qNb9ZEqgGYc0Iu6GQa1L" version="24.5.5" type="github" pages="11">
   <diagram name="接入方案" id="8bjldMGAq3fl1UrByE0X">
     <mxGraphModel dx="2370" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4210,6 +4210,72 @@
             <Array as="points">
               <mxPoint x="907.5" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R4ZQb_ZyK5mBDUcC_xJD" name="第 11 页">
+    <mxGraphModel dx="1014" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-1" target="6AT_CU8XteGrJTPIUWy3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-1" value="用于A-Moodle" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-2" target="6AT_CU8XteGrJTPIUWy3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-11" value="载入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-2" target="6AT_CU8XteGrJTPIUWy3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-2" value="基于Moodle的学习平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-14" value="xAPI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.856;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-4" target="6AT_CU8XteGrJTPIUWy3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-4" value="能力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-10" value="访问" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-5" target="6AT_CU8XteGrJTPIUWy3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-5" target="6AT_CU8XteGrJTPIUWy3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-5" value="EDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-7" target="6AT_CU8XteGrJTPIUWy3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-7" value="用户A-EDA" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-9" value="Moodle EDA插件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="141" y="420" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-12" value="能力" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-15" value="xAPI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.855;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-9" target="6AT_CU8XteGrJTPIUWy3-12">
+          <mxGeometry x="-0.0075" relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="sourcePoint" />
+            <mxPoint x="630" y="431" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-17" value="绑定Moodle用户" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.079;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-7" target="6AT_CU8XteGrJTPIUWy3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6AT_CU8XteGrJTPIUWy3-18" value="绑定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.079;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6AT_CU8XteGrJTPIUWy3-9" target="6AT_CU8XteGrJTPIUWy3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="595" as="sourcePoint" />
+            <mxPoint x="195" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
