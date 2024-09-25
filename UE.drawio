@@ -448,25 +448,19 @@
         <mxCell id="RVJaggGaEVgWCERY-yz9-2" value="Assets Repository" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-7" value="获取模型" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;curved=1;" edge="1" parent="1" target="RVJaggGaEVgWCERY-yz9-2">
-          <mxGeometry x="-0.0333" y="-20" relative="1" as="geometry">
-            <mxPoint x="530.0000000000005" y="610.0000000000002" as="sourcePoint" />
-            <mxPoint x="119.99999999999955" y="440.0000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="620" />
-              <mxPoint x="120" y="620" />
-            </Array>
-            <mxPoint as="offset" />
+        <mxCell id="RVJaggGaEVgWCERY-yz9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.75;exitDx=10;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RVJaggGaEVgWCERY-yz9-3" target="RVJaggGaEVgWCERY-yz9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVJaggGaEVgWCERY-yz9-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取模型&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RVJaggGaEVgWCERY-yz9-46">
+          <mxGeometry x="-0.1444" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RVJaggGaEVgWCERY-yz9-3" value="StaticMesh Manager" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;gradientColor=#CDA2BE;" vertex="1" parent="1">
           <mxGeometry x="430" y="570" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-5" value="获取获取模板" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;curved=1;" edge="1" parent="1" source="RVJaggGaEVgWCERY-yz9-4" target="RVJaggGaEVgWCERY-yz9-2">
+        <mxCell id="RVJaggGaEVgWCERY-yz9-5" value="获取获取模板" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitX=0.075;exitY=0.218;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="RVJaggGaEVgWCERY-yz9-4" target="RVJaggGaEVgWCERY-yz9-2">
           <mxGeometry x="-0.1739" y="30" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="250" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
