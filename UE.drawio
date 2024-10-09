@@ -480,7 +480,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-16" value="获取生成参数" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;labelBackgroundColor=#CDA2BE;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=10;entryDy=0;entryPerimeter=0;" parent="1" source="RVJaggGaEVgWCERY-yz9-9" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
+        <mxCell id="RVJaggGaEVgWCERY-yz9-16" value="获取生成参数" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;labelBackgroundColor=#CDA2BE;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=10;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="RVJaggGaEVgWCERY-yz9-9" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
           <mxGeometry x="0.1875" relative="1" as="geometry">
             <mxPoint x="729.75" y="505" as="sourcePoint" />
             <mxPoint x="989.75" y="665" as="targetPoint" />
@@ -508,19 +508,15 @@
         <mxCell id="RVJaggGaEVgWCERY-yz9-18" value="资源生产者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-260" y="860" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-21" value="写入生成参数" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;labelBackgroundColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RVJaggGaEVgWCERY-yz9-20" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
+        <mxCell id="RVJaggGaEVgWCERY-yz9-21" value="写入生成参数" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;labelBackgroundColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="RVJaggGaEVgWCERY-yz9-20" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1480" y="555" />
-              <mxPoint x="1480" y="555" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RVJaggGaEVgWCERY-yz9-20" value="场景生产者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1540" y="505" width="55" height="100" as="geometry" />
+          <mxGeometry x="1540" y="610" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-24" value="写入生成参数" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;labelBackgroundColor=#CDA2BE;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RVJaggGaEVgWCERY-yz9-23" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
+        <mxCell id="RVJaggGaEVgWCERY-yz9-24" value="写入生成参数" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;labelBackgroundColor=#CDA2BE;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" parent="1" source="RVJaggGaEVgWCERY-yz9-23" target="RVJaggGaEVgWCERY-yz9-15" edge="1">
           <mxGeometry x="0.8607" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="720" />
@@ -538,19 +534,10 @@
         <mxCell id="RVJaggGaEVgWCERY-yz9-25" value="LLM" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="760" y="910" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-39" value="输入剧本&lt;div style=&quot;font-size: 16px;&quot;&gt;输入自然语言&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;labelBackgroundColor=#FFF2CC;" parent="1" source="RVJaggGaEVgWCERY-yz9-27" target="RVJaggGaEVgWCERY-yz9-23" edge="1">
-          <mxGeometry x="0.1429" y="3" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1389" y="798" />
-            </Array>
-            <mxPoint as="offset" />
+        <mxCell id="RVJaggGaEVgWCERY-yz9-39" value="输入剧本&lt;div&gt;输入自然语言&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;labelBackgroundColor=#FFF2CC;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" parent="1" source="RVJaggGaEVgWCERY-yz9-20" target="RVJaggGaEVgWCERY-yz9-23" edge="1">
+          <mxGeometry x="0.3705" y="-7" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-41" value="获取场景并使用" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="RVJaggGaEVgWCERY-yz9-27" target="RVJaggGaEVgWCERY-yz9-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RVJaggGaEVgWCERY-yz9-27" value="使用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="750" width="52.5" height="95" as="geometry" />
         </mxCell>
         <mxCell id="RVJaggGaEVgWCERY-yz9-37" value="获取并总结" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="RVJaggGaEVgWCERY-yz9-28" target="RVJaggGaEVgWCERY-yz9-2" edge="1">
           <mxGeometry x="0.3095" y="-50" relative="1" as="geometry">
@@ -585,8 +572,17 @@
         </mxCell>
         <mxCell id="kCYVcuqm0GlJqHCoFjE--4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取并总结&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="kCYVcuqm0GlJqHCoFjE--1" target="RVJaggGaEVgWCERY-yz9-30">
           <mxGeometry x="-0.1598" y="115" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="940" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kCYVcuqm0GlJqHCoFjE--6" value="获取场景" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="kCYVcuqm0GlJqHCoFjE--5" target="RVJaggGaEVgWCERY-yz9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCYVcuqm0GlJqHCoFjE--5" value="使用者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="382.5" width="52.5" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
