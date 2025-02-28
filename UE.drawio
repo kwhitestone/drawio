@@ -1471,7 +1471,7 @@
         <mxCell id="uu_FQEzxvz7bWqrmsSOW-23" value="程序配置各个生成器的参数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCCC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="370" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uu_FQEzxvz7bWqrmsSOW-26" value="人工二次替换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6D0DE,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="uu_FQEzxvz7bWqrmsSOW-26" value="人工/程序二次替换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E6D0DE,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uu_FQEzxvz7bWqrmsSOW-29" value="生成场景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
