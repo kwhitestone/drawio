@@ -2204,6 +2204,69 @@
         <mxCell id="eftunUPvEJzSVWP3d3LR-164" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="3920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-165" target="eftunUPvEJzSVWP3d3LR-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-165" value="开放Unreal Engine Plugin API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-166" target="eftunUPvEJzSVWP3d3LR-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-166" value="开发MCP Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-167" target="eftunUPvEJzSVWP3d3LR-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-167" value="MCP Server集成到Autogen，形成Tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="900" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-168" target="eftunUPvEJzSVWP3d3LR-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-168" value="开发AI提示词" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-169" target="eftunUPvEJzSVWP3d3LR-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-169" value="组合LLM、提示词、Tools形成AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="eftunUPvEJzSVWP3d3LR-170" target="eftunUPvEJzSVWP3d3LR-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-170" value="组合AI Agent形成Multi Agent工作流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-171" value="完成内容生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-178" value="Tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="675" y="4750" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-179" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="4750" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-180" value="Multi Agents&lt;div&gt;（Autogen）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="4750" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="995" y="4850" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eftunUPvEJzSVWP3d3LR-185" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="4850" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-1" value="Fast" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFB570;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="794.5" y="5060" width="1415.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-2" value="3D 内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="4750" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="4855" width="100" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
