@@ -2243,29 +2243,68 @@
         <mxCell id="eftunUPvEJzSVWP3d3LR-171" value="完成内容生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1810" y="4540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eftunUPvEJzSVWP3d3LR-178" value="Tools&lt;br&gt;（MCP Servers）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="675" y="4750" width="270" height="280" as="geometry" />
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="4970" width="2145.5" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="eftunUPvEJzSVWP3d3LR-179" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="4750" width="270" height="280" as="geometry" />
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-14" value="MultiAgent 工作流" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry width="1960" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="eftunUPvEJzSVWP3d3LR-180" value="Multi Agents&lt;div&gt;（Autogen）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="4750" width="270" height="280" as="geometry" />
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-15" value="MultiAgent 工作流" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="10" y="10" width="1960" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="eftunUPvEJzSVWP3d3LR-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="995" y="4850" width="100" height="70" as="geometry" />
+        <mxCell id="eftunUPvEJzSVWP3d3LR-178" value="Tools&lt;br&gt;（MCP Servers）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="85.5" y="80" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="eftunUPvEJzSVWP3d3LR-185" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="4850" width="100" height="70" as="geometry" />
+        <mxCell id="eftunUPvEJzSVWP3d3LR-179" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="555.5" y="80" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-1" value="Fast" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFB570;gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="794.5" y="5060" width="1415.5" height="140" as="geometry" />
+        <mxCell id="eftunUPvEJzSVWP3d3LR-180" value="Multi Agents&lt;div&gt;（Autogen）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1070.5" y="80" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-2" value="3D 内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="4750" width="270" height="280" as="geometry" />
+        <mxCell id="eftunUPvEJzSVWP3d3LR-182" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="405.5" y="180" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="4855" width="100" height="70" as="geometry" />
+        <mxCell id="eftunUPvEJzSVWP3d3LR-185" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="900.5" y="180" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-1" value="Fast" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFB570;gradientDirection=east;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="205" y="460" width="1415.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-2" value="3D 内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1590.5" y="80" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1410.5" y="185" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-5" value="Tools&lt;br&gt;（MCP Servers）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="95.5" y="90" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-6" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="565.5" y="90" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-7" value="Multi Agents&lt;div&gt;（Autogen）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1080.5" y="90" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-8" value="3D 内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1600.5" y="90" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-9" value="More" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFB570;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1975.5" y="30" width="170" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-10" value="3D 内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1610.5" y="100" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-11" value="Multi Agents&lt;div&gt;（Autogen）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="1090.5" y="100" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-12" value="AI Agents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="575.5" y="100" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-13" value="Tools&lt;br&gt;（MCP Servers）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="_Ue-Ao7ZCT91z94yXHCU-16">
+          <mxGeometry x="105.5" y="100" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ue-Ao7ZCT91z94yXHCU-17" value="Token（Less）" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFF2CC;gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="480" y="4770" width="1415.5" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
