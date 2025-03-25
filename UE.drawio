@@ -3165,7 +3165,7 @@
           <mxGeometry x="740.63" y="11180" width="164.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TJDGBI5Z6uXdO71XjpeD-62" value="选择支持MCP工具调用的框架" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1;fontSize=20;strokeColor=#FFB570;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1279" y="11180" width="201" height="90" as="geometry" />
+          <mxGeometry x="1200.5" y="11180" width="201" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TJDGBI5Z6uXdO71XjpeD-63" value="外部寻找或自研" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1;fontSize=20;strokeColor=#FFB570;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1660" y="11180" width="200" height="90" as="geometry" />
